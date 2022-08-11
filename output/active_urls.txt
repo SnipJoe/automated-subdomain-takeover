@@ -1,3 +1,4 @@
+http://aea.starbucks.com
 http://am.reddit.com
 http://amal.reddit.com
 http://amanda.reddit.com
@@ -245,10 +246,12 @@ http://blade6.reddit.com
 http://blake.reddit.com
 http://blanco.reddit.com
 http://bliss.reddit.com
+http://blog.starbucks.com
 http://blog.technewstoday.reddit.com
 http://blogg.reddit.com
 http://blogs.reddit.com
 http://blogx.dev.reddit.com
+http://blonde.starbucks.com
 http://bluemoon.reddit.com
 http://bluerain.reddit.com
 http://bmb.reddit.com
@@ -316,6 +319,7 @@ http://calis.ncu.edu.cn
 http://call.reddit.com
 http://callback.reddit.com
 http://callcenter.reddit.com
+http://certaccess.gtm.starbucks.com
 http://cfb.reddit.com
 http://cfs.reddit.com
 http://cg.ncu.edu.cn
@@ -373,6 +377,7 @@ http://cluster.reddit.com
 http://cluster2.reddit.com
 http://cma.reddit.com
 http://cmail.reddit.com
+http://cms.starbucks.com
 http://cmt.reddit.com
 http://cmts1-all.gw.reddit.com
 http://cn.reddit.com
@@ -393,6 +398,7 @@ http://coleman.reddit.com
 http://collaborate.reddit.com
 http://commerce.reddit.com
 http://common-sw2.reddit.com
+http://community.starbucks.com
 http://compaq.reddit.com
 http://complete.reddit.com
 http://compras.reddit.com
@@ -443,6 +449,7 @@ http://coronavirusns1.reddit.com
 http://coronavirusseduction.reddit.com
 http://coronavirusserver.reddit.com
 http://coronaviruswww.reddit.com
+http://corporateorders.starbucks.com
 http://coupons.reddit.com
 http://courier.reddit.com
 http://covid-19.reddit.com
@@ -465,6 +472,7 @@ http://creme.reddit.com
 http://crew.reddit.com
 http://cringepics.reddit.com
 http://cris.reddit.com
+http://crl.gtm.starbucks.com
 http://crl1.reddit.com
 http://crm1.reddit.com
 http://crmdev.reddit.com
@@ -534,7 +542,9 @@ http://darkside.reddit.com
 http://darling.reddit.com
 http://dash.reddit.com
 http://data.reddit.com
+http://datacafe.starbucks.com
 http://datacenter.reddit.com
+http://datapulse-dev-app.starbucks.com
 http://datasets.reddit.com
 http://date.reddit.com
 http://datenschutz.reddit.com
@@ -584,9 +594,11 @@ http://detox.reddit.com
 http://deuce.reddit.com
 http://dev-admin.reddit.com
 http://dev.reddit.com
+http://dev.sei.starbucks.com
 http://dev02.reddit.com
 http://dev4.reddit.com
 http://deva.reddit.com
+http://developer.starbucks.com
 http://devserver.reddit.com
 http://devsite.reddit.com
 http://devwww.reddit.com
@@ -607,6 +619,7 @@ http://diego.reddit.com
 http://diendan.reddit.com
 http://digi.reddit.com
 http://digital.reddit.com
+http://digital.starbucks.com
 http://ding.reddit.com
 http://dio.reddit.com
 http://dione.reddit.com
@@ -688,6 +701,7 @@ http://dwcloudorigin.reddit.com
 http://dwiorigin.reddit.com
 http://dynamics.reddit.com
 http://e.ns.e.reddit.com
+http://e.stories.starbucks.com
 http://e10.reddit.com
 http://e2277b416b64.reddit.com
 http://e2410e13.reddit.com
@@ -699,11 +713,13 @@ http://easy.reddit.com
 http://easypromanager.reddit.com
 http://ebay.reddit.com
 http://ebill.reddit.com
+http://ebm.e.starbucks.com
 http://ebook.reddit.com
 http://ec.reddit.com
 http://ecc.reddit.com
 http://echo.reddit.com
 http://ed.reddit.com
+http://edam.starbucks.com
 http://eddy.reddit.com
 http://edelweiss.reddit.com
 http://edgarcayce.reddit.com
@@ -994,6 +1010,7 @@ http://gj.reddit.com
 http://gjc.reddit.com
 http://gl.reddit.com
 http://glamour.reddit.com
+http://globalassets.starbucks.com
 http://gms.reddit.com
 http://gmt.reddit.com
 http://gn.reddit.com
@@ -1012,6 +1029,7 @@ http://gort.reddit.com
 http://gos.reddit.com
 http://gp.reddit.com
 http://gps.reddit.com
+http://gr.starbucks.com
 http://grad.reddit.com
 http://granada.reddit.com
 http://grand.reddit.com
@@ -1216,6 +1234,7 @@ http://idp2.reddit.com
 http://ids.reddit.com
 http://ids1.reddit.com
 http://ids2.reddit.com
+http://ie.starbucks.com
 http://iec.reddit.com
 http://ifcm.ncu.edu.cn
 http://ig.reddit.com
@@ -1297,6 +1316,7 @@ http://intranet1.reddit.com
 http://intranet2.reddit.com
 http://inventario.reddit.com
 http://investment.reddit.com
+http://investor.starbucks.com
 http://io.reddit.com
 http://ion.reddit.com
 http://iota.reddit.com
@@ -1360,6 +1380,7 @@ http://jj-cat4900-gw.reddit.com
 http://jk.reddit.com
 http://jns.reddit.com
 http://job.reddit.com
+http://jobs.starbucks.com
 http://jocuri.reddit.com
 http://john.reddit.com
 http://jolly.reddit.com
@@ -1444,6 +1465,7 @@ http://ks.reddit.com
 http://ksi.reddit.com
 http://kygl.reddit.com
 http://kyokushin.reddit.com
+http://l.e.stories.starbucks.com
 http://l2.reddit.com
 http://label.reddit.com
 http://labo.reddit.com
@@ -1656,11 +1678,14 @@ http://mba.reddit.com
 http://mbox.reddit.com
 http://mbs.reddit.com
 http://mc.reddit.com
+http://mcdn-edge.starbucks.com
 http://mce.reddit.com
 http://mcovid19.reddit.com
 http://mdc.reddit.com
+http://mdm.starbucks.com
 http://mechanicalkeyboardcomputer-virus.reddit.com
 http://medi.reddit.com
+http://media.scm.starbucks.com
 http://media3.reddit.com
 http://mediakit.reddit.com
 http://mediasite.reddit.com
@@ -1685,6 +1710,7 @@ http://meta.reddit.com
 http://metalgearsolid.reddit.com
 http://metallica.reddit.com
 http://meteo.reddit.com
+http://mexico.starbucks.com
 http://mfc.reddit.com
 http://mfr.reddit.com
 http://mgr.reddit.com
@@ -1824,6 +1850,7 @@ http://mylive.reddit.com
 http://mymail.reddit.com
 http://mymediacodecs.reddit.com
 http://mymoney.reddit.com
+http://mysite.starbucks.com
 http://mysmis.reddit.com
 http://mysql8.reddit.com
 http://mysql9.reddit.com
@@ -1866,6 +1893,7 @@ http://net-xa.ohx.reddit.com
 http://newage.reddit.com
 http://newchat.reddit.com
 http://newdigitalcodecs.reddit.com
+http://news.starbucks.com
 http://newsletter.reddit.com
 http://newspaper.reddit.com
 http://newww.reddit.com
@@ -1956,6 +1984,7 @@ http://ob.reddit.com
 http://obsidian.reddit.com
 http://oceanus.reddit.com
 http://ocs.reddit.com
+http://ocsp.gtm.starbucks.com
 http://ocsweb.reddit.com
 http://octans.reddit.com
 http://oculus.reddit.com
@@ -2014,6 +2043,7 @@ http://oursogo.reddit.com
 http://out.reddit.com
 http://outage.reddit.com
 http://outlook.reddit.com
+http://outlook.starbucks.com
 http://overwatch.reddit.com
 http://ow-01.reddit.com
 http://ow-02.reddit.com
@@ -2023,6 +2053,7 @@ http://ow-15.reddit.com
 http://ow-25.reddit.com
 http://ow-34.reddit.com
 http://ow-57.reddit.com
+http://owa.starbucks.com
 http://ox.reddit.com
 http://oxford.reddit.com
 http://ozzy.reddit.com
@@ -2075,6 +2106,7 @@ http://pf.reddit.com
 http://pgp.reddit.com
 http://ph.reddit.com
 http://phaim22.reddit.com
+http://philippines.starbucks.com
 http://phobos.reddit.com
 http://phones.reddit.com
 http://photo.reddit.com
@@ -2117,6 +2149,7 @@ http://pluslatex.users.reddit.com
 http://pma2.reddit.com
 http://pmc.reddit.com
 http://pmo.reddit.com
+http://poc-west.shapecloud.starbucks.com
 http://poems.reddit.com
 http://poetry.reddit.com
 http://pogoda.reddit.com
@@ -2135,12 +2168,15 @@ http://pop1.reddit.com
 http://popup.reddit.com
 http://postit.reddit.com
 http://postmaster.old.reddit.com
+http://preview.starbucks.com
 http://prism.reddit.com
+http://prod.sei.starbucks.com
 http://proto.reddit.com
 http://protruth.reddit.com
 http://prove.reddit.com
 http://proxy.technewstoday.reddit.com
 http://prs.reddit.com
+http://psl.starbucks.com
 http://ptest.reddit.com
 http://ptn.reddit.com
 http://ptr.reddit.com
@@ -2184,6 +2220,7 @@ http://rahul.reddit.com
 http://rams.reddit.com
 http://ramses.reddit.com
 http://randall.reddit.com
+http://ranger.starbucks.com
 http://ranking.reddit.com
 http://raovat.reddit.com
 http://rapi.reddit.com
@@ -2199,6 +2236,7 @@ http://realmedia.reddit.com
 http://rec.reddit.com
 http://recherche.reddit.com
 http://recovery.reddit.com
+http://red.starbucks.com
 http://reddit.com
 http://redditama.covid19.reddit.com
 http://redditama.reddit.com
@@ -2261,6 +2299,7 @@ http://roa.reddit.com
 http://roadrunner.reddit.com
 http://roamer.reddit.com
 http://roaming.officeapps.live.comwww.reddit.com
+http://roastery.starbucks.com
 http://robby.reddit.com
 http://robin.exseed.reddit.com
 http://robin.reddit.com
@@ -2371,7 +2410,9 @@ http://schulen.reddit.com
 http://scientology.reddit.com
 http://scl.reddit.com
 http://sco.reddit.com
+http://scoapportaltest.starbucks.com
 http://scontent.xx.fbcdn.netwww.reddit.com
+http://search.starbucks.com
 http://searchmediafileinc.reddit.com
 http://searchmediafilesinc.reddit.com
 http://searchportal-dev.reddit.com
@@ -2413,6 +2454,7 @@ http://server32.reddit.com
 http://servicetest.reddit.com
 http://sexo.reddit.com
 http://sga.reddit.com
+http://sgsmsuppliertest.starbucks.com
 http://sh-it.reddit.com
 http://sha.reddit.com
 http://shark.reddit.com
@@ -2430,6 +2472,7 @@ http://silicon.reddit.com
 http://silk.reddit.com
 http://silverstar.reddit.com
 http://sim.reddit.com
+http://sim.starbucks.com
 http://simba.reddit.com
 http://simpsons.reddit.com
 http://sims.reddit.com
@@ -2531,6 +2574,10 @@ http://st4.reddit.com
 http://st6.reddit.com
 http://stage.old.reddit.com
 http://stage.reddit.com
+http://stagededestore.starbucks.com
+http://stagefrfrstore.starbucks.com
+http://stageglobalassets.starbucks.com
+http://stagewcmsvcs.starbucks.com
 http://staging.secure.reddit.com
 http://staging.shop.reddit.com
 http://stan.reddit.com
@@ -2551,6 +2598,8 @@ http://steak.reddit.com
 http://storage2.reddit.com
 http://store1.reddit.com
 http://storex.reddit.com
+http://storiesadmin.starbucks.com
+http://storiesapi.starbucks.com
 http://storm2.reddit.com
 http://storybook.reddit.com
 http://str.reddit.com
@@ -2634,9 +2683,13 @@ http://term.reddit.com
 http://terranova.reddit.com
 http://terre.reddit.com
 http://terry.reddit.com
+http://test.developer.starbucks.com
+http://test.sei.starbucks.com
 http://test3.reddit.com
 http://test333.reddit.com
 http://testa.reddit.com
+http://testassets.starbucks.com
+http://testcardmobile.starbucks.com
 http://testdrive.reddit.com
 http://testforum.reddit.com
 http://testportal.reddit.com
@@ -2685,6 +2738,8 @@ http://town.reddit.com
 http://tp.reddit.com
 http://tpc.reddit.com
 http://traa.reddit.com
+http://trace-systest.starbucks.com
+http://traceability.starbucks.com
 http://trafic.reddit.com
 http://trailerparkboys.reddit.com
 http://trailers.reddit.com
@@ -2777,6 +2832,7 @@ http://vh.reddit.com
 http://vh2.reddit.com
 http://vhost.reddit.com
 http://vi.reddit.com
+http://via.starbucks.com
 http://viajes.reddit.com
 http://vic.reddit.com
 http://victor.reddit.com
@@ -2837,6 +2893,7 @@ http://vv.reddit.com
 http://vw.reddit.com
 http://vx.reddit.com
 http://vz1.reddit.com
+http://w.e.stories.starbucks.com
 http://w0.reddit.com
 http://w2.reddit.com
 http://w3-reporting-nel.reddit.com
@@ -2852,6 +2909,7 @@ http://wargames.reddit.com
 http://watchdogs.reddit.com
 http://watson.reddit.com
 http://wave.reddit.com
+http://wcmsvcs.starbucks.com
 http://web-02.reddit.com
 http://web-coronavirusca.reddit.com
 http://web-hosting.reddit.com
@@ -3541,6 +3599,17 @@ http://webtools.reddit.com
 http://webtrends.reddit.com
 http://weekly.reddit.com
 http://well.reddit.com
+http://wfmnalcn.starbucks.com
+http://wfmnalcnps.starbucks.com
+http://wfmnapim.starbucks.com
+http://wfmnapimct.starbucks.com
+http://wfmnapimst.starbucks.com
+http://wfmnaposct.starbucks.com
+http://wfmnapospc.starbucks.com
+http://wfmnaposps.starbucks.com
+http://wfmnarptdv.starbucks.com
+http://wfmnarptpc.starbucks.com
+http://wfmnarptst.starbucks.com
 http://whatever.reddit.com
 http://whatsup.reddit.com
 http://whynot.reddit.com
@@ -3567,10 +3636,14 @@ http://world.reddit.com
 http://wp7dev.reddit.com
 http://wpad.reddit.com
 http://wsdx.ncu.edu.cn
+http://www.mexico.starbucks.com
+http://www.test.starbucks.com
 http://wx.reddit.com
 http://wy.reddit.com
 http://wyjx.ncu.edu.cn
 http://wz.reddit.com
+http://x.a.starbucks.com
+http://x.e.stories.starbucks.com
 http://x10.reddit.com
 http://x2.reddit.com
 http://x3.reddit.com
@@ -3587,6 +3660,7 @@ http://xm.reddit.com
 http://xmonad.reddit.com
 http://xmpp.reddit.com
 http://xn.reddit.com
+http://xss.starbucks.com
 http://xsyb.ncu.edu.cn
 http://xuebao.reddit.com
 http://xvdieos.reddit.com
@@ -3911,6 +3985,7 @@ https://a.ns.email.reddit.com
 https://a.ns.reddit.com
 https://a.old.reddit.com
 https://a.reddit.com
+https://a.starbucks.com
 https://a.technewstoday.reddit.com
 https://a0.reddit.com
 https://a01.reddit.com
@@ -4000,6 +4075,7 @@ https://acid.reddit.com
 https://acl.reddit.com
 https://acm.reddit.com
 https://acme.reddit.com
+https://acme.starbucks.com
 https://acorn.reddit.com
 https://acp.reddit.com
 https://acrux.reddit.com
@@ -4009,7 +4085,9 @@ https://action.reddit.com
 https://activate.reddit.com
 https://activation.reddit.com
 https://active.reddit.com
+https://activesync.gtm.starbucks.com
 https://activesync.reddit.com
+https://activesync.starbucks.com
 https://activity.reddit.com
 https://actuallesbians.reddit.com
 https://ad.reddit.com
@@ -4280,6 +4358,7 @@ https://alterego.reddit.com
 https://alto.reddit.com
 https://alumni.dev.reddit.com
 https://alumni.reddit.com
+https://alumni.starbucks.com
 https://alumnos.reddit.com
 https://alvarez.reddit.com
 https://alvin.reddit.com
@@ -4335,19 +4414,34 @@ https://anubis.reddit.com
 https://ao-nm.reddit.com
 https://aoa.reddit.com
 https://aovivo.reddit.com
+https://apdceforum.starbucks.com
 https://api-docs.covid19.reddit.com
+https://api.batchguidance.starbucks.com
 https://api.coronavirus.reddit.com
 https://api.ext.reddit.com
+https://api.ngsaas.beta.starbucks.com
+https://api.np.batchguidance.starbucks.com
+https://api.np.playbuilder.starbucks.com
+https://api.playbuilder.starbucks.com
 https://api.test.reddit.com
 https://api1.reddit.com
 https://apk.reddit.com
 https://aplicaciones.reddit.com
 https://app.coronavirusca.reddit.com
+https://app.dev.starbucks.com
 https://app.old.reddit.com
+https://app.starbucks.com
+https://app.test.starbucks.com
 https://app2.reddit.com
 https://app3.reddit.com
 https://app4.reddit.com
+https://appcafe-cert.gtm.starbucks.com
+https://appcafe-cert.starbucks.com
+https://appcafe-iad.starbucks.com
+https://appcafe.gtm.starbucks.com
+https://appcafe.starbucks.com
 https://appcgi.reddit.com
+https://applanetpeople.starbucks.com
 https://apple.reddit.com
 https://appli.reddit.com
 https://apps.reddit.com
@@ -4359,10 +4453,15 @@ https://aramis.reddit.com
 https://arcade.reddit.com
 https://arch.reddit.com
 https://archer.reddit.com
+https://archive.starbucks.com
 https://arg.reddit.com
 https://argon.reddit.com
 https://arhiva.reddit.com
 https://ari.reddit.com
+https://ariba-asp-ct.starbucks.com
+https://ariba-asp-sd.starbucks.com
+https://ariba-asp-st.starbucks.com
+https://ariba-asp.starbucks.com
 https://aris.reddit.com
 https://arizona.reddit.com
 https://arma.reddit.com
@@ -4394,6 +4493,9 @@ https://askreddit.reddit.com
 https://asoiaf.reddit.com
 https://ass.reddit.com
 https://asset.reddit.com
+https://assets.scm.starbucks.com
+https://assets.scmtest.starbucks.com
+https://assets.starbucks.com
 https://assets2.reddit.com
 https://ast.reddit.com
 https://asterisk.reddit.com
@@ -4405,6 +4507,7 @@ https://ataman.reddit.com
 https://atc.reddit.com
 https://atest.reddit.com
 https://athens.reddit.com
+https://athome.starbucks.com
 https://atm.reddit.com
 https://atomic.reddit.com
 https://atrium.reddit.com
@@ -4443,6 +4546,7 @@ https://autoconfig.us.reddit.com
 https://autoconfig.webdesign.reddit.com
 https://autoconfig.wiki.reddit.com
 https://autoconfig.www2.reddit.com
+https://autodiscover-iad2.starbucks.com
 https://autodiscover.api.reddit.com
 https://autodiscover.classifieds.reddit.com
 https://autodiscover.cn.reddit.com
@@ -4460,6 +4564,7 @@ https://autodiscover.newsletter.reddit.com
 https://autodiscover.old.reddit.com
 https://autodiscover.radio.reddit.com
 https://autodiscover.shop.reddit.com
+https://autodiscover.starbucks.com
 https://autodiscover.student.reddit.com
 https://autodiscover.support.reddit.com
 https://autodiscover.test.reddit.com
@@ -4472,9 +4577,18 @@ https://automail.reddit.com
 https://autoplataforma.reddit.com
 https://av8d.reddit.com
 https://avalon.reddit.com
+https://avatars.scm.starbucks.com
+https://avatars.scmtest.starbucks.com
 https://aviva.reddit.com
+https://awapi-cert.starbucks.com
+https://awapi.starbucks.com
 https://award.reddit.com
 https://awc.reddit.com
+https://awcm-cert.starbucks.com
+https://awcm.gtm.starbucks.com
+https://awcm.starbucks.com
+https://awconsole-cert.gtm.starbucks.com
+https://awconsole-cert.starbucks.com
 https://awesome.reddit.com
 https://aws.reddit.com
 https://awstats.reddit.com
@@ -4542,6 +4656,7 @@ https://bbs2.reddit.com
 https://bbsgirlsuncovered.reddit.com
 https://bbtest.reddit.com
 https://bca.reddit.com
+https://bcassets.starbucks.com
 https://bcc.reddit.com
 https://bcst-xa.ohx.reddit.com
 https://bds.reddit.com
@@ -4566,15 +4681,26 @@ https://bestmediafiles.reddit.com
 https://bestseller.reddit.com
 https://bet.reddit.com
 https://beta.admin.reddit.com
+https://beta.starbucks.com
 https://betablog.reddit.com
 https://betterday.users.reddit.com
 https://betty.reddit.com
+https://bi-cap-tb.starbucks.com
+https://bi-cap-tbuat.starbucks.com
+https://bi-cert-mstr-web.starbucks.com
+https://bi-dc-cert.starbucks.com
+https://bi-dc-retail.starbucks.com
+https://bi-ri-dr.starbucks.com
+https://bi-ri.starbucks.com
+https://bi-test-mstr-web.starbucks.com
 https://bi.reddit.com
 https://bia.reddit.com
 https://biafra.reddit.com
 https://bib.reddit.com
 https://biblioteca.reddit.com
 https://biblioteka.reddit.com
+https://bicap-ftp.starbucks.com
+https://bicap-tb.starbucks.com
 https://bid.reddit.com
 https://biel.reddit.com
 https://big5.reddit.com
@@ -4594,6 +4720,7 @@ https://birthday.reddit.com
 https://bis.reddit.com
 https://bitcoin.reddit.com
 https://bits.reddit.com
+https://bits.starbucks.com
 https://bittit.reddit.com
 https://bk.reddit.com
 https://bk1.reddit.com
@@ -4626,6 +4753,12 @@ https://bo.reddit.com
 https://board.reddit.com
 https://bologna.reddit.com
 https://bomb.reddit.com
+https://bomgar.starbucks.com
+https://bomgaratlaschd.starbucks.com
+https://bomgaratlasiad.starbucks.com
+https://bomgarchd.starbucks.com
+https://bomgariad.starbucks.com
+https://bomgarlab.starbucks.com
 https://bon.reddit.com
 https://bond.reddit.com
 https://bones.reddit.com
@@ -4642,6 +4775,9 @@ https://border-odd.nntp.priv.reddit.com
 https://borg.reddit.com
 https://boston.reddit.com
 https://bouncer.reddit.com
+https://box-asp-ct.starbucks.com
+https://box-asp-sd.starbucks.com
+https://box-asp-st.starbucks.com
 https://box2.reddit.com
 https://boxoffice.reddit.com
 https://bp.reddit.com
@@ -4654,6 +4790,7 @@ https://bravo.reddit.com
 https://brawlrecruit.reddit.com
 https://brazil.reddit.com
 https://brewbarrymore.reddit.com
+https://brodeur.starbucks.com
 https://bronx.reddit.com
 https://brooklyn.reddit.com
 https://brothers.reddit.com
@@ -4763,6 +4900,7 @@ https://capacitacion.reddit.com
 https://capella.reddit.com
 https://capeverde.reddit.com
 https://capital.reddit.com
+https://cappromo.starbucks.com
 https://capricorn.reddit.com
 https://caps.reddit.com
 https://captain.reddit.com
@@ -4814,10 +4952,12 @@ https://cas3.reddit.com
 https://casa.reddit.com
 https://casanova.reddit.com
 https://casas.reddit.com
+https://cascade.starbucks.com
 https://cascadia.reddit.com
 https://case.reddit.com
 https://cash.reddit.com
 https://cashing.reddit.com
+https://cashmgmt-prod-iad.starbucks.com
 https://casino.reddit.com
 https://casper.reddit.com
 https://cassini.reddit.com
@@ -4861,6 +5001,7 @@ https://ccd.reddit.com
 https://cch.reddit.com
 https://cci.reddit.com
 https://ccl.reddit.com
+https://ccm-help.starbucks.com
 https://ccm.reddit.com
 https://ccna.reddit.com
 https://ccomputer-virus-verwijderen.reddit.com
@@ -4899,6 +5040,8 @@ https://cdr.reddit.com
 https://cdrom.reddit.com
 https://cds.reddit.com
 https://cdserver.reddit.com
+https://cdx-prod-api.starbucks.com
+https://cdx.starbucks.com
 https://ce.reddit.com
 https://cea.reddit.com
 https://cec.reddit.com
@@ -5079,7 +5222,15 @@ https://clopclop.reddit.com
 https://clothing.reddit.com
 https://cloud.old.reddit.com
 https://cloud4.reddit.com
+https://cloudapps.gtm.starbucks.com
+https://cloudapps.starbucks.com
+https://cloudappschd.starbucks.com
+https://cloudappsemea.starbucks.com
+https://cloudappsiad.starbucks.com
 https://cloudflare-resolve-to.reddit.com
+https://cloudid-cert.starbucks.com
+https://cloudid-dev.starbucks.com
+https://cloudid.starbucks.com
 https://clover.reddit.com
 https://club.reddit.com
 https://clubs.reddit.com
@@ -5087,6 +5238,7 @@ https://clusterfuck.reddit.com
 https://cmcc.reddit.com
 https://cmd.reddit.com
 https://cmdb.reddit.com
+https://cmglobalcmg.starbucks.com
 https://cmi.reddit.com
 https://cmp.reddit.com
 https://cms.reddit.com
@@ -5106,8 +5258,11 @@ https://coconut.reddit.com
 https://cocoon.reddit.com
 https://cocreddit.reddit.com
 https://cod.reddit.com
+https://codeload.scm.starbucks.com
+https://codeload.scmtest.starbucks.com
 https://coder.reddit.com
 https://coffee.reddit.com
+https://coffeeexperiences.starbucks.com
 https://cognos.reddit.com
 https://cogsci.reddit.com
 https://coin.reddit.com
@@ -5147,8 +5302,10 @@ https://comment.reddit.com
 https://comments.reddit.com
 https://common-sw.reddit.com
 https://common-sw1.reddit.com
+https://communities.starbucks.com
 https://comoros.reddit.com
 https://compare.reddit.com
+https://compass-prod.starbucks.com
 https://competitiveedh.reddit.com
 https://complaints.reddit.com
 https://composite.reddit.com
@@ -5166,11 +5323,15 @@ https://conf.reddit.com
 https://conference.jabber.reddit.com
 https://conferences.reddit.com
 https://confluence.reddit.com
+https://connect.starbucks.com
+https://connectadmin.starbucks.com
+https://connectstaging.starbucks.com
 https://conrad.reddit.com
 https://conservative.reddit.com
 https://consult.reddit.com
 https://consulta.reddit.com
 https://consulting.reddit.com
+https://content-prod-live.cert.starbucks.com
 https://contentawarescale.reddit.com
 https://contents.reddit.com
 https://contest.reddit.com
@@ -5275,6 +5436,7 @@ https://crawler.reddit.com
 https://crazy.reddit.com
 https://cream.reddit.com
 https://creation.reddit.com
+https://creative.starbucks.com
 https://creditcard.reddit.com
 https://credito.reddit.com
 https://cricket.reddit.com
@@ -5300,6 +5462,7 @@ https://csr31.net.reddit.com
 https://csr41.net.reddit.com
 https://csv1.reddit.com
 https://ct.reddit.com
+https://ct01.gifts.starbucks.com
 https://ctc.reddit.com
 https://ctl.reddit.com
 https://ctrl.reddit.com
@@ -5383,6 +5546,10 @@ https://d.ns.e.reddit.com
 https://d.ns.email.reddit.com
 https://d.reddit.com
 https://d0.reddit.com
+https://d01-1-ag.productioncontroller.starbucks.com
+https://d02-3-ag.productioncontroller.starbucks.com
+https://d02-tm.productioncontroller.starbucks.com
+https://d03.productioncontroller.starbucks.com
 https://d1.reddit.com
 https://d10.reddit.com
 https://d101.reddit.com
@@ -5424,6 +5591,9 @@ https://data1.reddit.com
 https://data3.reddit.com
 https://database.reddit.com
 https://database2.reddit.com
+https://datacafe-dev.starbucks.com
+https://datacafe-test.starbucks.com
+https://datapulse-dev.starbucks.com
 https://daum.reddit.com
 https://dav.reddit.com
 https://dave1.reddit.com
@@ -5476,6 +5646,7 @@ https://dedi.reddit.com
 https://dedicado.reddit.com
 https://deepak.reddit.com
 https://deepblue.reddit.com
+https://deepbrew.starbucks.com
 https://defiant.reddit.com
 https://dei.reddit.com
 https://deimos.reddit.com
@@ -5498,6 +5669,7 @@ https://demo7.reddit.com
 https://demosite.reddit.com
 https://dennis.reddit.com
 https://denver.reddit.com
+https://departments.starbucks.com
 https://deploy.reddit.com
 https://deportes.reddit.com
 https://depot.reddit.com
@@ -5519,6 +5691,8 @@ https://dev-www.reddit.com
 https://dev.admin.reddit.com
 https://dev.covid19.reddit.com
 https://dev.old.reddit.com
+https://dev.starbucks.com
+https://dev.ucp.starbucks.com
 https://dev.www.reddit.com
 https://dev01.reddit.com
 https://dev1-covid19.reddit.com
@@ -5560,6 +5734,8 @@ https://diffusion.reddit.com
 https://digg.comold.reddit.com
 https://digg.comwww.reddit.com
 https://digg.reddit.com
+https://digitalcart-cert.starbucks.com
+https://digitalcart-dev.starbucks.com
 https://dima.reddit.com
 https://dingdong.reddit.com
 https://dingo.reddit.com
@@ -5605,6 +5781,7 @@ https://dns5.reddit.com
 https://dns9.reddit.com
 https://dnstest.reddit.com
 https://doc.reddit.com
+https://docker.scm.starbucks.com
 https://documentedtruth.reddit.com
 https://documents.reddit.com
 https://dod.reddit.com
@@ -5716,8 +5893,11 @@ https://e1.reddit.com
 https://e6.reddit.com
 https://eac.reddit.com
 https://ead.reddit.com
+https://eapi-gd.starbucks.com
+https://eapi.starbucks.com
 https://ears.reddit.com
 https://easter.reddit.com
+https://eastus-svcardproxydevus.starbucks.com
 https://easydigitaldm.reddit.com
 https://easydigitalmanager.reddit.com
 https://easymediadm.reddit.com
@@ -5806,6 +5986,8 @@ https://empleo.reddit.com
 https://employment.reddit.com
 https://ems1.reddit.com
 https://emu.reddit.com
+https://en-ca.test.starbucks.com
+https://en-ie.test.starbucks.com
 https://en.technewstoday.reddit.com
 https://encoder.reddit.com
 https://encrypt.reddit.com
@@ -5932,6 +6114,7 @@ https://ew.reddit.com
 https://ewa.reddit.com
 https://eweb.reddit.com
 https://ewkczpwww.reddit.com
+https://ews-iad2.starbucks.com
 https://ews.reddit.com
 https://ex.reddit.com
 https://ex2.reddit.com
@@ -5991,6 +6174,7 @@ https://eye.reddit.com
 https://eyny.reddit.com
 https://ez.reddit.com
 https://ezadmin.reddit.com
+https://f.e.starbucks.com
 https://f.ns.e.reddit.com
 https://f.reddit.com
 https://f0.reddit.com
@@ -6199,6 +6383,8 @@ https://fn-02.reddit.com
 https://fn-59.reddit.com
 https://fnc.reddit.com
 https://fobos.reddit.com
+https://focus-rest-pd.starbucks.com
+https://focus-rest.starbucks.com
 https://focus.reddit.com
 https://folgertech.reddit.com
 https://foo.reddit.com
@@ -6227,6 +6413,7 @@ https://forwarding.reddit.com
 https://fotos.reddit.com
 https://foxy.reddit.com
 https://fptest.reddit.com
+https://fr-fr.test.starbucks.com
 https://fr.reddit.com
 https://frame.reddit.com
 https://fran.reddit.com
@@ -6426,6 +6613,9 @@ https://genesis.reddit.com
 https://genie.reddit.com
 https://genius.reddit.com
 https://genome.reddit.com
+https://geo-analytics-cert.starbucks.com
+https://geo-analytics-dev-west.starbucks.com
+https://geo-analytics-dev.starbucks.com
 https://geography.reddit.com
 https://geology.reddit.com
 https://geoportal.reddit.com
@@ -6554,6 +6744,7 @@ https://green.reddit.com
 https://greendog.reddit.com
 https://groove.reddit.com
 https://groovy.reddit.com
+https://groupon.starbucks.com
 https://groups.reddit.com
 https://gry.reddit.com
 https://gs1.reddit.com
@@ -6562,6 +6753,7 @@ https://gsgou.users.reddit.com
 https://gshf.reddit.com
 https://gsk.reddit.com
 https://gsm.reddit.com
+https://gsoc-help.starbucks.com
 https://gss.reddit.com
 https://gss1.reddit.com
 https://gt2.reddit.com
@@ -6693,6 +6885,7 @@ https://hell.reddit.com
 https://hello.reddit.com
 https://hellokitty.reddit.com
 https://help.old.reddit.com
+https://help.starbucks.com
 https://helpdesk2.reddit.com
 https://helper.reddit.com
 https://helpme.reddit.com
@@ -6733,6 +6926,7 @@ https://hirlevel.reddit.com
 https://his.reddit.com
 https://hist.reddit.com
 https://historia.reddit.com
+https://historias.starbucks.com
 https://hit.reddit.com
 https://hitech.reddit.com
 https://hj.reddit.com
@@ -6923,6 +7117,7 @@ https://icon.reddit.com
 https://icp.reddit.com
 https://icq.reddit.com
 https://ict.reddit.com
+https://id.starbucks.com
 https://ida.reddit.com
 https://idaho.reddit.com
 https://idata.reddit.com
@@ -7092,6 +7287,7 @@ https://ipam.reddit.com
 https://ipcam.reddit.com
 https://iphone.reddit.com
 https://iphoneography.reddit.com
+https://ipm.starbucks.com
 https://ipp.reddit.com
 https://ipplan.reddit.com
 https://iproxy.reddit.com
@@ -7247,6 +7443,7 @@ https://jgxy.reddit.com
 https://jh.reddit.com
 https://jing.reddit.com
 https://jinx.reddit.com
+https://jiratest.starbucks.com
 https://jj.reddit.com
 https://jjc.reddit.com
 https://jlsy.ncu.edu.cn
@@ -7777,6 +7974,8 @@ https://localhost.old.reddit.com
 https://localhost.technewstoday.reddit.com
 https://localing-coronavirusca.reddit.com
 https://locate.reddit.com
+https://locationexchange-ps.starbucks.com
+https://locationexchange-st.starbucks.com
 https://locator.reddit.com
 https://lock.reddit.com
 https://loco.reddit.com
@@ -7865,6 +8064,7 @@ https://ly.reddit.com
 https://lygh.ncu.edu.cn
 https://lync.reddit.com
 https://lyncaccess.reddit.com
+https://lyncdiscover.starbucks.com
 https://lyncedge.reddit.com
 https://lynx.reddit.com
 https://lyon.reddit.com
@@ -7953,6 +8153,7 @@ https://maidsafe.reddit.com
 https://mail-1.reddit.com
 https://mail-2.reddit.com
 https://mail-gw.reddit.com
+https://mail-iad.starbucks.com
 https://mail-old.reddit.com
 https://mail-relay.reddit.com
 https://mail.080.reddit.com
@@ -8003,6 +8204,7 @@ https://mail.oursogo.reddit.com
 https://mail.pics.reddit.com
 https://mail.reddit.com
 https://mail.sogox.reddit.com
+https://mail.starbucks.com
 https://mail.technewstoday.reddit.com
 https://mail.test.reddit.com
 https://mail.tw.reddit.com
@@ -8261,6 +8463,7 @@ https://med.reddit.com
 https://medea.reddit.com
 https://media.old.reddit.com
 https://media.reddit.com
+https://media.scmtest.starbucks.com
 https://media.technewstoday.reddit.com
 https://media1.reddit.com
 https://media4.reddit.com
@@ -8552,11 +8755,13 @@ https://mp3.reddit.com
 https://mp4.reddit.com
 https://mpa.reddit.com
 https://mpacc.ncu.edu.cn
+https://mpi-sorry.starbucks.com
 https://mq.reddit.com
 https://mrb.reddit.com
 https://mrm.reddit.com
 https://mrp.reddit.com
 https://mrs.reddit.com
+https://mrs4.starbucks.com
 https://mrtg.reddit.com
 https://mrtg1.reddit.com
 https://mrtg2.reddit.com
@@ -8719,6 +8924,7 @@ https://myhome.reddit.com
 https://myhost.reddit.com
 https://myinfo.reddit.com
 https://myjob.reddit.com
+https://mylacportaltest.starbucks.com
 https://mylittlepony.reddit.com
 https://mylivecodecs.reddit.com
 https://mylove.reddit.com
@@ -8728,6 +8934,7 @@ https://mynet.reddit.com
 https://myoffice.reddit.com
 https://myown.reddit.com
 https://mypage.reddit.com
+https://mypartnerinfo-ext.starbucks.com
 https://mypc.reddit.com
 https://myphotos.reddit.com
 https://myphp.reddit.com
@@ -8914,6 +9121,7 @@ https://newsletter2.reddit.com
 https://newsletters.reddit.com
 https://newsroom.reddit.com
 https://newstest.reddit.com
+https://newstest.starbucks.com
 https://newt.reddit.com
 https://newton.reddit.com
 https://newunse.reddit.com
@@ -9052,6 +9260,7 @@ https://novo.reddit.com
 https://novokuznetsk.reddit.com
 https://novorossiysk.reddit.com
 https://nox.reddit.com
+https://np-msapi.starbucks.com
 https://np.de.reddit.com
 https://np.reddit.com.reddit.com
 https://nps.reddit.com
@@ -9221,6 +9430,8 @@ https://o1.reddit.com
 https://o1.sendgrid.reddit.com
 https://o2.email.reddit.com
 https://o2.reddit.com
+https://o9cprdev.starbucks.com
+https://o9cprprod.starbucks.com
 https://oa.reddit.com
 https://oa1.reddit.com
 https://oak.reddit.com
@@ -9337,6 +9548,7 @@ https://opa.reddit.com
 https://opac.reddit.com
 https://opal.reddit.com
 https://open.reddit.com
+https://openapi.starbucks.com
 https://opencart.reddit.com
 https://opendata.reddit.com
 https://opendatanortonantivirus.reddit.reddit.com
@@ -9461,6 +9673,7 @@ https://oyster.reddit.com
 https://oyun.reddit.com
 https://oz.reddit.com
 https://ozone.reddit.com
+https://p01-tm.productioncontroller.starbucks.com
 https://p1.reddit.com
 https://p3.reddit.com
 https://p4.reddit.com
@@ -9578,7 +9791,10 @@ https://pcstun.reddit.com
 https://pcsupport.bnsc.reddit.com
 https://pct.reddit.com
 https://pcworld.reddit.com
+https://pd.cdx.starbucks.com
 https://pd.reddit.com
+https://pd.spc.starbucks.com
+https://pd01.gifts.starbucks.com
 https://pda.reddit.com
 https://pdb.reddit.com
 https://pdb2.reddit.com
@@ -9639,6 +9855,8 @@ https://peter.reddit.com
 https://petra.reddit.com
 https://petrozavodsk.reddit.com
 https://pets.reddit.com
+https://pf.ucp.starbucks.com
+https://pf.ucpc.starbucks.com
 https://pf1.reddit.com
 https://pfjerk.reddit.com
 https://pg.reddit.com
@@ -9679,6 +9897,7 @@ https://phpmyadmin2.reddit.com
 https://phptest.reddit.com
 https://phs.reddit.com
 https://physics.reddit.com
+https://pi.spc.starbucks.com
 https://piano.reddit.com
 https://pic1.reddit.com
 https://pic2.reddit.com
@@ -9947,6 +10166,7 @@ https://private.reddit.com
 https://priya.reddit.com
 https://prize.reddit.com
 https://prm.reddit.com
+https://pro-asp-api-test.starbucks.com
 https://pro-ky.reddit.com
 https://pro-oh.reddit.com
 https://pro.reddit.com
@@ -9961,6 +10181,7 @@ https://procss.reddit.com
 https://prod.new.reddit.com
 https://prod.reddit.com
 https://prod.tools.reddit.com
+https://prod00.gifts.starbucks.com
 https://prod1.reddit.com
 https://prod2.reddit.com
 https://product.reddit.com
@@ -10037,6 +10258,7 @@ https://prueba.reddit.com
 https://pruebas.reddit.com
 https://prusa3d.reddit.com
 https://ps.reddit.com
+https://ps00.gifts.starbucks.com
 https://ps1.reddit.com
 https://ps4.reddit.com
 https://ps4pro.reddit.com
@@ -10158,6 +10380,7 @@ https://qwertyuiop.reddit.com
 https://qx.reddit.com
 https://r.reddit.com
 https://r0.reddit.com
+https://r01-1-ag.productioncontroller.starbucks.com
 https://r1.reddit.com
 https://r2.reddit.com
 https://r230.i50.reddit.com
@@ -10370,6 +10593,7 @@ https://renoir.reddit.com
 https://rent.reddit.com
 https://replay.reddit.com
 https://replica.reddit.com
+https://reply.scm.starbucks.com
 https://repo.reddit.com
 https://report.reddit.com
 https://report1.reddit.com
@@ -10557,6 +10781,7 @@ https://rs3.reddit.com
 https://rsc.ncu.edu.cn
 https://rseor3.reddit.com
 https://rsm.reddit.com
+https://rsp-cnct-prd.starbucks.com
 https://rspay.ncu.edu.cn
 https://rss.reddit.com
 https://rss0.reddit.com
@@ -10604,6 +10829,10 @@ https://s.reddit.com
 https://s.reddit.coms.reddit.com
 https://s01.reddit.com
 https://s02.reddit.com
+https://s03-3-ag.productioncontroller.starbucks.com
+https://s03-ssa.productioncontroller.starbucks.com
+https://s03-tm.productioncontroller.starbucks.com
+https://s03.productioncontroller.starbucks.com
 https://s04.reddit.com
 https://s05.reddit.com
 https://s06.reddit.com
@@ -10864,6 +11093,8 @@ https://schubert.reddit.com
 https://sci.reddit.com
 https://science.reddit.com
 https://scifi.reddit.com
+https://scm-asp-sd.starbucks.com
+https://scoapportal.starbucks.com
 https://scom.reddit.com
 https://scooby.reddit.com
 https://scooter.reddit.com
@@ -10893,10 +11124,14 @@ https://sct.reddit.com
 https://scuba.reddit.com
 https://scully.reddit.com
 https://scylla.reddit.com
+https://sd-asp.starbucks.com
+https://sd.cdx.starbucks.com
 https://sd.reddit.com
 https://sd1.reddit.com
 https://sda.reddit.com
 https://sdc.reddit.com
+https://sdcatalog-st.starbucks.com
+https://sdcatalogadmin-st.starbucks.com
 https://sdcc1.reddit.com
 https://sdce-virus2.reddit.com
 https://sdf.reddit.com
@@ -11209,6 +11444,7 @@ https://sinsei.reddit.com
 https://sion.reddit.com
 https://sip.old.reddit.com
 https://sip.reddit.com
+https://sip.starbucks.com
 https://sip.technewstoday.reddit.com
 https://sip1.reddit.com
 https://sip2.reddit.com
@@ -11236,6 +11472,7 @@ https://sites.reddit.com
 https://sitesearch.reddit.com
 https://siva.reddit.com
 https://six.reddit.com
+https://sixevents.starbucks.com
 https://sixflags.reddit.com
 https://sixthworldmusic.reddit.com
 https://sj.reddit.com
@@ -11579,6 +11816,7 @@ https://srv7.reddit.com
 https://srv9.reddit.com
 https://srvc42.reddit.com
 https://srvc47.reddit.com
+https://ss.cdx.starbucks.com
 https://ss13.reddit.com
 https://ss14.reddit.com
 https://sse.reddit.com
@@ -11594,6 +11832,7 @@ https://ssltest.reddit.com
 https://sslvpn.old.reddit.com
 https://sslvpn.reddit.com
 https://sslvpn.technewstoday.reddit.com
+https://sso-group2.starbucks.com
 https://sso.reddit.com
 https://ssp.reddit.com
 https://ssrs.reddit.com
@@ -11611,6 +11850,8 @@ https://stack.reddit.com
 https://staf.reddit.com
 https://staff.reddit.com
 https://staffs.reddit.com
+https://stage.openapi.starbucks.com
+https://stage.sei.starbucks.com
 https://stage.technewstoday.reddit.com
 https://stage1.reddit.com
 https://stage2.reddit.com
@@ -11625,6 +11866,7 @@ https://stalker.reddit.com
 https://stamps.reddit.com
 https://standby.reddit.com
 https://star.reddit.com
+https://starbucks.com
 https://starcitizen.reddit.com
 https://stardust.reddit.com
 https://stargazer.reddit.com
@@ -11699,6 +11941,7 @@ https://store2.reddit.com
 https://storefront.reddit.com
 https://stores.reddit.com
 https://stories.reddit.com
+https://stories.starbucks.com
 https://storm.reddit.com
 https://story.reddit.com
 https://stranger.reddit.com
@@ -11717,6 +11960,12 @@ https://streams.reddit.com
 https://streamtheater.reddit.com
 https://strike.reddit.com
 https://strong.reddit.com
+https://sts-vis-cert-selfservice.starbucks.com
+https://sts-vis-cloud1.starbucks.com
+https://sts-vis-cloud3.starbucks.com
+https://sts-vis-dev-cloud3.starbucks.com
+https://sts-vis-dev-cloud4.starbucks.com
+https://sts-vis-main.gtm.starbucks.com
 https://sts.reddit.com
 https://stt.reddit.com
 https://stuart.reddit.com
@@ -11826,6 +12075,7 @@ https://sv7.reddit.com
 https://sv8.reddit.com
 https://sv9.reddit.com
 https://svc.reddit.com
+https://svcardproxydevus.starbucks.com
 https://svm.reddit.com
 https://svn.reddit.com
 https://svn2.reddit.com
@@ -11878,6 +12128,7 @@ https://szb.ncu.edu.cn
 https://szb.reddit.com
 https://szkolenia.reddit.com
 https://t.reddit.com
+https://t02-3-ag.productioncontroller.starbucks.com
 https://t1.reddit.com
 https://t10.reddit.com
 https://t2.reddit.com
@@ -11949,6 +12200,7 @@ https://teachers.reddit.com
 https://teal.reddit.com
 https://teamredditmining.reddit.com
 https://teams.reddit.com
+https://teams.starbucks.com
 https://teamspeak.reddit.com
 https://techblog.reddit.com
 https://techinfo.reddit.com
@@ -12014,6 +12266,7 @@ https://test02.reddit.com
 https://test03.reddit.com
 https://test04.reddit.com
 https://test07.reddit.com
+https://test1.openapi.starbucks.com
 https://test1.reddit.com
 https://test10.reddit.com
 https://test11.reddit.com
@@ -12021,13 +12274,18 @@ https://test111.reddit.com
 https://test12.reddit.com
 https://test123.reddit.com
 https://test1234.reddit.com
+https://test13.openapi.starbucks.com
 https://test13.reddit.com
+https://test14.openapi.starbucks.com
 https://test14.reddit.com
+https://test14globalsecureui-chd.starbucks.com
+https://test14globalsecureui.starbucks.com
 https://test15.reddit.com
 https://test16.reddit.com
 https://test17.reddit.com
 https://test18.reddit.com
 https://test19.reddit.com
+https://test2.openapi.starbucks.com
 https://test2.reddit.com
 https://test2.users.reddit.com
 https://test20.reddit.com
@@ -12038,6 +12296,7 @@ https://test5.reddit.com
 https://test55.reddit.com
 https://test6.reddit.com
 https://test7.reddit.com
+https://test8.openapi.starbucks.com
 https://test8.reddit.com
 https://test9.reddit.com
 https://testaccount.reddit.com
@@ -12246,6 +12505,7 @@ https://toolbox.reddit.com
 https://tools.old.reddit.com
 https://tools.reddit.com
 https://tools.technewstoday.reddit.com
+https://toolshub.starbucks.com
 https://tootoo.reddit.com
 https://top.reddit.com
 https://top1.reddit.com
@@ -12288,6 +12548,8 @@ https://tps.reddit.com
 https://tr.reddit.com
 https://traaaaaaannnnnnnnnns.reddit.com
 https://trac.reddit.com
+https://trace-api-cert.starbucks.com
+https://trace-cert.starbucks.com
 https://trace.reddit.com
 https://tracker1.reddit.com
 https://tracker2.reddit.com
@@ -12416,6 +12678,7 @@ https://twitter.reddit.com
 https://twokinds.reddit.com
 https://twoshits.reddit.com
 https://twr1.reddit.com
+https://txnmid-a-v9.starbucks.com
 https://txt.reddit.com
 https://tyb.reddit.com
 https://tyler.reddit.com
@@ -12445,6 +12708,8 @@ https://ubuntufr.reddit.com
 https://uc.reddit.com
 https://ucf.reddit.com
 https://ucfknights.reddit.com
+https://ucp.starbucks.com
+https://ucpr.starbucks.com
 https://uds.reddit.com
 https://uesgh2x.reddit.com
 https://uf.reddit.com
@@ -12636,6 +12901,7 @@ https://ventas.reddit.com
 https://venus.reddit.com
 https://ver.reddit.com
 https://vera.reddit.com
+https://verde.starbucks.com
 https://verify.apple.reddit.com
 https://verify.reddit.com
 https://veritas.reddit.com
@@ -12925,6 +13191,7 @@ https://vulcano.reddit.com
 https://vvv.reddit.com
 https://vz.reddit.com
 https://vz2.reddit.com
+https://w.a.starbucks.com
 https://w.reddit.com
 https://w1.reddit.com
 https://w10.reddit.com
@@ -17137,6 +17404,7 @@ https://webmail.forum.reddit.com
 https://webmail.hosting.reddit.com
 https://webmail.old.reddit.com
 https://webmail.reddit.com
+https://webmail.starbucks.com
 https://webmail.technewstoday.reddit.com
 https://webmail01.reddit.com
 https://webmail1.reddit.com
@@ -17205,6 +17473,19 @@ https://wf.reddit.com
 https://wfa.reddit.com
 https://wfb.reddit.com
 https://wfm-service.reddit.com
+https://wfmnapay.starbucks.com
+https://wfmnapaydv.starbucks.com
+https://wfmnapaypc.starbucks.com
+https://wfmnapayps.starbucks.com
+https://wfmnapimdv.starbucks.com
+https://wfmnapimps.starbucks.com
+https://wfmnaposdv.starbucks.com
+https://wfmnaptnct.starbucks.com
+https://wfmnaptnpc.starbucks.com
+https://wfmnaptnps.starbucks.com
+https://wfmnaptnst.starbucks.com
+https://wfmnarpt.starbucks.com
+https://wfmnarptps.starbucks.com
 https://wg.reddit.com
 https://wgyxy.ncu.edu.cn
 https://wh.reddit.com
@@ -17464,12 +17745,15 @@ https://www-stg.reddit.com
 https://www-test.reddit.com
 https://www-uat.reddit.com
 https://www.alb.reddit.com
+https://www.athome.starbucks.com
 https://www.ca.reddit.com
 https://www.h.reddit.com
+https://www.historias.starbucks.com
 https://www.huoxian.cn
 https://www.i.reddit.com
 https://www.id.reddit.com
 https://www.m.reddit.com
+https://www.mid-management.starbucks.com
 https://www.ncu.edu.cn
 https://www.np.reddit.com
 https://www.old.reddit.com
@@ -17550,6 +17834,7 @@ https://wwwnew.reddit.com
 https://wwwold.reddit.com
 https://wwworigin.reddit.com
 https://wwws.reddit.com
+https://wwwstage.starbucks.com
 https://wwwstg.reddit.com
 https://wwwtest.reddit.com
 https://wwww.reddit.com
@@ -17562,6 +17847,7 @@ https://wyoming.reddit.com
 https://wysyzx.ncu.edu.cn
 https://wyx.reddit.com
 https://wyzt.ncu.edu.cn
+https://x.e.starbucks.com
 https://x.reddit.com
 https://x1.reddit.com
 https://x11.reddit.com
