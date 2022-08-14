@@ -9,6 +9,7 @@
 000.reddit.com
 000000.imgur.com
 0011i.imgur.com
+002.developer-sg.tiktok.com
 0021.imgur.com
 007.reddit.com
 008ff93ba07ebbf.reddit.com
@@ -573,6 +574,7 @@ access1.reddit.com
 access2.reddit.com
 accommodation.reddit.com
 account.reddit.com
+account.tiktok.com
 accounting.reddit.com
 accountmanager.reddit.com
 accounts.reddit.com
@@ -602,7 +604,9 @@ activesync-iad3.starbucks.com
 activesync.gtm.starbucks.com
 activesync.reddit.com
 activesync.starbucks.com
+activity-va.tiktok.com
 activity.reddit.com
+activity.tiktok.com
 actuallesbians.reddit.com
 ad.reddit.com
 ad1.reddit.com
@@ -672,13 +676,21 @@ adrian.users.reddit.com
 adriana.reddit.com
 adrms.reddit.com
 ads-api.reddit.com
+ads-api.tiktok.com
+ads-crm.tiktok.com
+ads-imapi.tiktok.com
+ads-service.tiktok.com
+ads-sg.tiktok.com
+ads-va.tiktok.com
 ads.reddit.com
+ads.tiktok.com
 ads1.reddit.com
 ads2.reddit.com
 adsense.reddit.com
 adserv.reddit.com
 adserver.reddit.com
 adserver2.reddit.com
+adsinsightslab.tiktok.com
 adsl.reddit.com
 adsl2.reddit.com
 adslnat-curridabat-128.reddit.com
@@ -710,8 +722,12 @@ aeon.reddit.com
 aero.reddit.com
 af.reddit.com
 afaceri.reddit.com
+aff-id.tiktok.com
 aff.reddit.com
+aff.tiktok.com
+affiliate-id.tiktok.com
 affiliate.reddit.com
+affiliate.tiktok.com
 affiliates.reddit.com
 afisha.reddit.com
 afl.reddit.com
@@ -961,7 +977,11 @@ anakin.reddit.com
 anal.reddit.com
 analog.reddit.com
 analysis.reddit.com
+analytics-attribution.tiktok.com
+analytics-sg.tiktok.com
 analytics.reddit.com
+analytics.tiktok.com
+analytics.us.tiktok.com
 anamaryutza10.imgur.com
 anand.reddit.com
 ananke.reddit.com
@@ -1091,6 +1111,9 @@ api-coronavirus.reddit.com
 api-coronavirusca.reddit.com
 api-dev.reddit.com
 api-docs.covid19.reddit.com
+api-m.tiktok.com
+api-pns-va.tiktok.com
+api-t.tiktok.com
 api-test.reddit.com
 api.batchguidance.starbucks.com
 api.coronavirus.reddit.com
@@ -1109,6 +1132,7 @@ api.staging.reddit.com
 api.starbucks.com
 api.technewstoday.reddit.com
 api.test.reddit.com
+api.tiktok.com
 api1.reddit.com
 api2.reddit.com
 api3.reddit.com
@@ -1291,6 +1315,8 @@ articles.reddit.com
 artificial.reddit.com
 artis.reddit.com
 artist.reddit.com
+artist.tiktok.com
+artists.tiktok.com
 arts.reddit.com
 artstore.reddit.com
 artur.reddit.com
@@ -1673,6 +1699,7 @@ autodiscover.technewstoday.reddit.com
 autodiscover.test.reddit.com
 autodiscover.testing.reddit.com
 autodiscover.tickets.reddit.com
+autodiscover.tiktok.com
 autodiscover.travel.reddit.com
 autodiscover.tv.reddit.com
 autodiscover.us.reddit.com
@@ -2027,6 +2054,7 @@ bangbang.reddit.com
 bangbros.reddit.com
 bangkok.reddit.com
 bangtothepow940.imgur.com
+banhang.tiktok.com
 bank.reddit.com
 banner.reddit.com
 banner2.reddit.com
@@ -2418,6 +2446,7 @@ blog.old.reddit.com
 blog.reddit.com
 blog.starbucks.com
 blog.technewstoday.reddit.com
+blog.trending.tiktok.com
 blog1.reddit.com
 blog2.reddit.com
 blog3.reddit.com
@@ -2716,7 +2745,12 @@ burundi.reddit.com
 burundicoronavirusca.reddit.com
 bus.reddit.com
 buscador.reddit.com
+business-api.tiktok.com
+business-sso.tiktok.com
+business-tips.tiktok.com
+business-useast2a.tiktok.com
 business.reddit.com
+business.tiktok.com
 busyba.imgur.com
 butler.reddit.com
 butterfly.reddit.com
@@ -2921,6 +2955,7 @@ career.reddit.com
 careers.old.reddit.com
 careers.reddit.com
 careers.technewstoday.reddit.com
+careers.tiktok.com
 cargo.reddit.com
 carina.reddit.com
 carl.reddit.com
@@ -2936,6 +2971,8 @@ carpediem.reddit.com
 carpenter.reddit.com
 carporn.reddit.com
 carrier.reddit.com
+carrierflow-sg.tiktok.com
+carrierflow-va.tiktok.com
 cars.reddit.com
 cart.reddit.com
 carter.reddit.com
@@ -2990,7 +3027,9 @@ cbf8.reddit.com
 cbr.reddit.com
 cbs.reddit.com
 cbt.reddit.com
+cc-test.tiktok.com
 cc.reddit.com
+cc.tiktok.com
 cc1.reddit.com
 cc2.reddit.com
 cca.reddit.com
@@ -3024,6 +3063,7 @@ cdm.reddit.com
 cdms.reddit.com
 cdn-2-4.reddit.com
 cdn-26-0.reddit.com
+cdn-test.tiktok.com
 cdn.old.reddit.com
 cdn.reddit.com
 cdn.technewstoday.reddit.com
@@ -3939,7 +3979,11 @@ creater.reddit.com
 creation.reddit.com
 creative.reddit.com
 creative.starbucks.com
+creativeexchange.tiktok.com
 creator.reddit.com
+creatormarketplace-va-useast2a.tiktok.com
+creatormarketplace-va.tiktok.com
+creatormarketplace.tiktok.com
 credit.reddit.com
 creditbank.reddit.com
 creditcard.reddit.com
@@ -4327,6 +4371,9 @@ datacafe-dev.starbucks.com
 datacafe-test.starbucks.com
 datacafe.starbucks.com
 datacenter.reddit.com
+datahub-useast2a.tiktok.com
+datahub.tiktok.com
+datahubops.tiktok.com
 dataorigin.reddit.com
 datapulse-app.starbucks.com
 datapulse-dev-app.starbucks.com
@@ -4577,6 +4624,7 @@ dev.sei.starbucks.com
 dev.shop.reddit.com
 dev.starbucks.com
 dev.technewstoday.reddit.com
+dev.tiktok.com
 dev.ucp.starbucks.com
 dev.www.reddit.com
 dev0.reddit.com
@@ -4607,12 +4655,17 @@ devedqapps.starbucks.com
 devel.reddit.com
 devel2.reddit.com
 develop.reddit.com
+developer-sg.tiktok.com
+developer-useast2a.tiktok.com
 developer.openapi.starbucks.com
 developer.reddit.com
 developer.starbucks.com
+developer.tiktok.com
 developer1-coronavirusca.reddit.com
+developers-useast2a.tiktok.com
 developers.reddit.com
 developers.starbucks.com
+developers.tiktok.com
 development.reddit.com
 devenderrao.imgur.com
 devforum.reddit.com
@@ -5100,6 +5153,7 @@ e.ns.email.reddit.com
 e.reddit.com
 e.starbucks.com
 e.stories.starbucks.com
+e.tiktok.com
 e02-ag.productioncontroller.starbucks.com
 e02-tm.productioncontroller.starbucks.com
 e02.productioncontroller.starbucks.com
@@ -5279,7 +5333,12 @@ eeba803c-b922-42a5-8f89-c9e0d78bd2f1.www.paypal.com
 eedition.reddit.com
 eee.reddit.com
 ef.reddit.com
+effect-api-sg.tiktok.com
+effect-api-va-useast2a.tiktok.com
+effect-api-va.tiktok.com
+effect.tiktok.com
 effectai.reddit.com
+effecthouse.tiktok.com
 eforce.reddit.com
 eform.reddit.com
 eforms.reddit.com
@@ -5374,6 +5433,7 @@ elton.reddit.com
 elvis.reddit.com
 elysium.reddit.com
 em.reddit.com
+em5348.careers.tiktok.com
 email-covid19.reddit.com
 email.girlsuncovered.reddit.com
 email.mg.starbucks.com
@@ -5381,6 +5441,7 @@ email.ncu.edu.cn
 email.old.reddit.com
 email.reddit.com
 email.technewstoday.reddit.com
+email.tiktok.com
 email1.reddit.com
 email2.reddit.com
 email3.reddit.com
@@ -5649,6 +5710,7 @@ euclid.reddit.com
 eugene.reddit.com
 euler.reddit.com
 euninga2013.imgur.com
+eureka.012gh.developer-sg.tiktok.com
 eureka.reddit.com
 euro.reddit.com
 euro2008.reddit.com
@@ -5732,6 +5794,7 @@ expeal.reddit.com
 expealrecords.reddit.com
 experience.reddit.com
 experiment.reddit.com
+experiment.tiktok.com
 expert.reddit.com
 experts.reddit.com
 explainlikeimfive.reddit.com
@@ -5935,6 +5998,7 @@ feedback.reddit.com
 feedme.reddit.com
 feeds.reddit.com
 feeker.imgur.com
+feelgood-api.tiktok.com
 feelochem.ncu.edu.cn
 feet.reddit.com
 fef.reddit.com
@@ -6635,6 +6699,7 @@ getfreecodecs.reddit.com
 getlivecodecs.reddit.com
 getmediacodecs.reddit.com
 getnewcodecs.reddit.com
+getstarted.tiktok.com
 getthiscodecs.reddit.com
 gewinnspiel.reddit.com
 geyser.reddit.com
@@ -6778,6 +6843,8 @@ glow.reddit.com
 glpi.reddit.com
 gls.reddit.com
 gm.reddit.com
+gma-useast2a.tiktok.com
+gma.tiktok.com
 gmail.reddit.com
 gman.reddit.com
 gmax.reddit.com
@@ -7004,6 +7071,7 @@ gz.reddit.com
 gzc.reddit.com
 gzs.reddit.com
 h.reddit.com
+h1-16.tiktok.com
 h1.reddit.com
 h10.reddit.com
 h11.reddit.com
@@ -7012,6 +7080,7 @@ h120.reddit.com
 h13.reddit.com
 h14.reddit.com
 h15.reddit.com
+h2-16.tiktok.com
 h2.reddit.com
 h21.reddit.com
 h2media.reddit.com
@@ -7507,15 +7576,18 @@ hydrogen.reddit.com
 hyouon32.reddit.com
 hyperboria.reddit.com
 hyperion.reddit.com
+hypstarcdn.tiktok.com
 hz.reddit.com
 i .imgur.com
 i-origin.reddit.com
 i.a.starbucks.com
+i.account.tiktok.com
 i.i.imgur.com
 i.i.reddit.com
 i.imgur.com
 i.imgur.imgur.com
 i.reddit.com
+i.service.tiktok.com
 i.stack.imgur.com
 i.www.reddit.com
 i0.reddit.com
@@ -7759,7 +7831,11 @@ ilovekimpossiblealot.reddit.com
 iloveyou.reddit.com
 ils.ncu.edu.cn
 ils.reddit.com
+im-api-sg.tiktok.com
+im-api-va.tiktok.com
 im-nm.reddit.com
+im-ws-sg.tiktok.com
+im-ws-va.tiktok.com
 im.reddit.com
 im.rtpete.reddit.com
 im.rtpqa.reddit.com
@@ -7769,6 +7845,8 @@ im3.reddit.com
 im4.reddit.com
 ima.reddit.com
 imac.reddit.com
+image-sg.tiktok.com
+image-va.tiktok.com
 image.reddit.com
 image1.reddit.com
 image2.reddit.com
@@ -7882,6 +7960,7 @@ imtheasscrackbandit.imgur.com
 imvu.reddit.com
 imwxsecure.reddit.com
 in.reddit.com
+in.tiktok.com
 ina.reddit.com
 inb.reddit.com
 inbound.old.reddit.com
@@ -7929,8 +8008,10 @@ info.ncdxfz.ncu.edu.cn
 info.old.reddit.com
 info.reddit.com
 info.technewstoday.reddit.com
+info.tiktok.com
 info1.reddit.com
 info2.reddit.com
+infobip.service.tiktok.com
 infocenter.reddit.com
 infonet.reddit.com
 inform.reddit.com
@@ -9052,6 +9133,7 @@ lexington.reddit.com
 lexus.reddit.com
 lexusrx.imgur.com
 lf.reddit.com
+lf0-feedback-private-va.tiktok.com
 lfc-atlas.gridpp.reddit.com
 lfs.reddit.com
 lg.reddit.com
@@ -9130,6 +9212,7 @@ linesegmentjerk.reddit.com
 lingua.reddit.com
 linguistics.reddit.com
 linh060.imgur.com
+link.e.tiktok.com
 link.reddit.com
 linkedin.reddit.com
 linkin.reddit.com
@@ -9177,10 +9260,12 @@ lithuania.reddit.com
 little.reddit.com
 little0rgasme.imgur.com
 little1rgasme.imgur.com
+live-backstage.tiktok.com
 live.reddit.com
 live1.reddit.com
 live2.reddit.com
 live3.reddit.com
+livecenter.tiktok.com
 livechat.reddit.com
 livedfs1.imgur.com
 livedigitalcodecs.reddit.com
@@ -9274,6 +9359,7 @@ logiciel.reddit.com
 login.old.reddit.com
 login.reddit.com
 login.technewstoday.reddit.com
+login.tiktok.com
 login1.reddit.com
 login2.reddit.com
 logistic.reddit.com
@@ -9444,9 +9530,11 @@ m.stage.reddit.com
 m.staging.reddit.com
 m.technewstoday.reddit.com
 m.test.reddit.com
+m.tiktok.com
 m.www.reddit.com
 m0.reddit.com
 m01.reddit.com
+m1-16.tiktok.com
 m1.reddit.com
 m10.reddit.com
 m11.reddit.com
@@ -9455,6 +9543,7 @@ m13.reddit.com
 m16.reddit.com
 m18.reddit.com
 m19.reddit.com
+m2-16.tiktok.com
 m2.reddit.com
 m20.reddit.com
 m2m.reddit.com
@@ -9626,6 +9715,7 @@ mail.sogox.reddit.com
 mail.starbucks.com
 mail.technewstoday.reddit.com
 mail.test.reddit.com
+mail.tiktok.com
 mail.tw.reddit.com
 mail.xvdieos.reddit.com
 mail.y02.reddit.com
@@ -9812,6 +9902,7 @@ malefashionadvice.reddit.com
 mali.reddit.com
 malibu.reddit.com
 malik.reddit.com
+maliva.tiktok.com
 mall.reddit.com
 mall1.reddit.com
 mall49.reddit.com
@@ -10026,7 +10117,10 @@ mcpublicwiki.reddit.com
 mcq-indus-01.iutnb.reddit.com
 mcq-media-01.iutnb.reddit.com
 mcq-projet-01.iutnb.reddit.com
+mcs-sg.tiktok.com
+mcs-va.tiktok.com
 mcs.reddit.com
+mcs.us.tiktok.com
 mcstructures.reddit.com
 mctourney.reddit.com
 mcu.reddit.com
@@ -10064,6 +10158,7 @@ media.scm.starbucks.com
 media.scmdev.starbucks.com
 media.scmtest.starbucks.com
 media.technewstoday.reddit.com
+media.tiktok.com
 media1.reddit.com
 media3.reddit.com
 media4.reddit.com
@@ -10178,6 +10273,7 @@ metamorphosis.reddit.com
 metc.reddit.com
 meteo.reddit.com
 meteobahia.reddit.com
+meteor.tiktok.com
 metis.reddit.com
 metrics.reddit.com
 metro.reddit.com
@@ -10194,6 +10290,7 @@ mfc.reddit.com
 mfr.reddit.com
 mfs.reddit.com
 mg.reddit.com
+mg.tiktok.com
 mga.reddit.com
 mgirlsuncovered.reddit.com
 mgk.reddit.com
@@ -10308,6 +10405,7 @@ minnie.reddit.com
 minos.reddit.com
 minotaur.reddit.com
 minsk.reddit.com
+mint-sg.tiktok.com
 mint.reddit.com
 minus.reddit.com
 mio.reddit.com
@@ -10629,6 +10727,9 @@ msn.reddit.com
 msp.reddit.com
 mspaint.reddit.com
 mss.reddit.com
+mssdk-sg.tiktok.com
+mssdk-va.tiktok.com
+mssdk.us.tiktok.com
 mssql.ncu.edu.cn
 mssql.reddit.com
 mssql01.reddit.com
@@ -10761,10 +10862,12 @@ museum.ncu.edu.cn
 museum.reddit.com
 mushroom.reddit.com
 music.reddit.com
+music.tiktok.com
 music1.reddit.com
 musica.reddit.com
 musicbox.reddit.com
 musicessentials.reddit.com
+musician.tiktok.com
 musicman.reddit.com
 musicquotes.reddit.com
 musicworld.reddit.com
@@ -11171,6 +11274,7 @@ news.old.reddit.com
 news.reddit.com
 news.starbucks.com
 news.technewstoday.reddit.com
+news.tiktok.com
 news.youth.ncu.edu.cn
 news01.reddit.com
 news1.reddit.com
@@ -11186,6 +11290,7 @@ newsletter2.reddit.com
 newsletters.reddit.com
 newspaper.reddit.com
 newsroom.reddit.com
+newsroom.tiktok.com
 newstest.reddit.com
 newstest.starbucks.com
 newt.reddit.com
@@ -11368,6 +11473,7 @@ nothing.reddit.com
 notice.reddit.com
 noticias.reddit.com
 notifications.reddit.com
+notifications.tiktok.com
 notify.reddit.com
 notsafefornature.reddit.com
 nouii0.imgur.com
@@ -11653,11 +11759,31 @@ o.reddit.com
 o00xcbd00.imgur.com
 o1.email.reddit.com
 o1.mail.reddit.com
+o1.ptr3703.tiktok.com
 o1.reddit.com
 o1.sendgrid.reddit.com
+o13.ptr2902.service.tiktok.com
+o14.ptr1445.account.tiktok.com
+o15.ptr425.account.tiktok.com
+o16.ptr9230.service.tiktok.com
+o17.ptr1147.service.tiktok.com
+o18.ptr8067.service.tiktok.com
+o19.ptr4023.service.tiktok.com
 o2.email.reddit.com
+o2.ptr4323.i.account.tiktok.com
 o2.reddit.com
+o20.ptr6684.service.tiktok.com
 o21.ptr974.starbucks.com
+o23.ptr4260.service.tiktok.com
+o24.ptr8276.service.tiktok.com
+o25.ptr4821.service.tiktok.com
+o26.ptr7957.service.tiktok.com
+o27.ptr1078.service.tiktok.com
+o3.ptr1888.i.service.tiktok.com
+o31.ptr4951.service.india.tiktok.com
+o32.ptr7905.service.india.tiktok.com
+o33.ptr2870.india.tiktok.com
+o34.ptr1441.service.tiktok.com
 o365.starbucks.com
 o442.mail.notifications.imgur.com
 o443.mail.welcome.imgur.com
@@ -11728,6 +11854,7 @@ odp.reddit.com
 ods.reddit.com
 odyssey.reddit.com
 oe.reddit.com
+oec-sso.tiktok.com
 oem-omcs.starbucks.com
 oem.reddit.com
 of.reddit.com
@@ -11860,7 +11987,11 @@ opa.reddit.com
 opac.reddit.com
 opal.reddit.com
 opel.reddit.com
+open-api-useast1a.tiktok.com
+open-api.tiktok.com
+open-platform.tiktok.com
 open.reddit.com
+open.tiktok.com
 openapi.starbucks.com
 opencart.reddit.com
 opendata.reddit.com
@@ -12071,6 +12202,7 @@ ozone.reddit.com
 ozzy.reddit.com
 p.imgur.com
 p.reddit.com
+p0-selfserve-private-sg.tiktok.com
 p01-1-ag.productioncontroller.starbucks.com
 p01-1-lb.productioncontroller.starbucks.com
 p01-2-ag.productioncontroller.starbucks.com
@@ -12199,6 +12331,7 @@ partnerapi.reddit.com
 partnerbridge.starbucks.com
 partnercentral.starbucks.com
 partners.reddit.com
+partners.tiktok.com
 parto.reddit.com
 parts.reddit.com
 pas.reddit.com
@@ -12459,6 +12592,7 @@ pie.reddit.com
 pierre.reddit.com
 pif.reddit.com
 pig.reddit.com
+pigeon-id.tiktok.com
 pigeon.reddit.com
 piglet.reddit.com
 pikachu.reddit.com
@@ -12622,6 +12756,7 @@ poly.reddit.com
 polychrome.reddit.com
 polycom.reddit.com
 polycom1.reddit.com
+polyfill.tiktok.com
 pomoc.reddit.com
 pong.reddit.com
 pontus.reddit.com
@@ -12889,6 +13024,7 @@ promo.reddit.com
 promociones.reddit.com
 promos.reddit.com
 promote.reddit.com
+promotion-useast2a.tiktok.com
 promotion.reddit.com
 promotions.reddit.com
 promotions.starbucks.com
@@ -13933,6 +14069,8 @@ s155.reddit.com
 s156.reddit.com
 s158.reddit.com
 s159.reddit.com
+s16-ies-useast2a.tiktok.com
+s16-ies.tiktok.com
 s16.reddit.com
 s167.reddit.com
 s169.reddit.com
@@ -14413,7 +14551,15 @@ selfcare.reddit.com
 selfhosted.reddit.com
 selfservice.reddit.com
 sell.reddit.com
+seller-id.tiktok.com
+seller-my.tiktok.com
+seller-ph.tiktok.com
+seller-sg.tiktok.com
+seller-th.tiktok.com
+seller-uk.tiktok.com
+seller-vn.tiktok.com
 seller.reddit.com
+seller.tiktok.com
 selly.reddit.com
 sem.ncu.edu.cn
 sem.reddit.com
@@ -14520,6 +14666,7 @@ server8.reddit.com
 server9.reddit.com
 servers.reddit.com
 service.reddit.com
+service.tiktok.com
 service1.reddit.com
 service2.reddit.com
 service2b.api.starbucks.com
@@ -14566,6 +14713,7 @@ sft.reddit.com
 sftp.reddit.com
 sftp3.reddit.com
 sfx.reddit.com
+sg-business-sso.tiktok.com
 sg.reddit.com
 sg1.reddit.com
 sga.reddit.com
@@ -14661,10 +14809,13 @@ shms1.reddit.com
 shms2.reddit.com
 shooter.reddit.com
 shop-girlsuncovered.reddit.com
+shop-id.tiktok.com
+shop-uk.tiktok.com
 shop.covid19.reddit.com
 shop.old.reddit.com
 shop.reddit.com
 shop.technewstoday.reddit.com
+shop.tiktok.com
 shop1.reddit.com
 shop2.reddit.com
 shop3.reddit.com
@@ -15193,6 +15344,7 @@ sportal.reddit.com
 sports.reddit.com
 spot.reddit.com
 spotlight.reddit.com
+spotlight.tiktok.com
 spp.reddit.com
 spr.reddit.com
 spravka.reddit.com
@@ -15523,6 +15675,7 @@ storefront.reddit.com
 storelanding.starbucks.com
 storelink-owa.starbucks.com
 storelink.starbucks.com
+storemanager.tiktok.com
 stores.reddit.com
 storex.reddit.com
 stories.reddit.com
@@ -15633,6 +15786,7 @@ sudoku.reddit.com
 sug.reddit.com
 sugar.reddit.com
 sugarcrm.reddit.com
+suggestions.tiktok.com
 sulu.reddit.com
 sumatra.starbucks.com
 sumire.reddit.com
@@ -15689,6 +15843,7 @@ support-coronavirusca.reddit.com
 support.old.reddit.com
 support.reddit.com
 support.technewstoday.reddit.com
+support.tiktok.com
 support1.reddit.com
 support2.reddit.com
 supportcoronavirus.reddit.com
@@ -15705,6 +15860,7 @@ suri.reddit.com
 surprisejihad.reddit.com
 surrey.reddit.com
 survey.reddit.com
+survey.tiktok.com
 survey1.reddit.com
 survey2.reddit.com
 surveys.reddit.com
@@ -15810,6 +15966,7 @@ szb.reddit.com
 szkolenia.reddit.com
 t.imgur.com
 t.reddit.com
+t.tiktok.com
 t02-1-ag.productioncontroller.starbucks.com
 t02-2-ag.productioncontroller.starbucks.com
 t02-3-ag.productioncontroller.starbucks.com
@@ -16003,6 +16160,7 @@ tes.reddit.com
 tesco.reddit.com
 tesla.reddit.com
 tesoreria.reddit.com
+test-business-useast2a.tiktok.com
 test-coronavirus.reddit.com
 test-m.reddit.com
 test-psv.openapi.starbucks.com
@@ -16019,6 +16177,7 @@ test.shop.reddit.com
 test.starbucks.com
 test.support.reddit.com
 test.technewstoday.reddit.com
+test.tiktok.com
 test.ucp.starbucks.com
 test.www.reddit.com
 test001.reddit.com
@@ -16357,6 +16516,7 @@ tigers.reddit.com
 tigger.reddit.com
 tiki.reddit.com
 tiko3d.reddit.com
+tiktok.com
 tim.reddit.com
 timberwolves.reddit.com
 time.reddit.com
@@ -16549,6 +16709,7 @@ track.reddit.com
 tracker.reddit.com
 tracker1.reddit.com
 tracker2.reddit.com
+tracking.infobip.service.tiktok.com
 tracking.reddit.com
 trackit.reddit.com
 tracks.reddit.com
@@ -16603,7 +16764,9 @@ trees.reddit.com
 treinamento.reddit.com
 trek.reddit.com
 trend.reddit.com
+trending.tiktok.com
 trends.reddit.com
+trends.tiktok.com
 trent.reddit.com
 tres.reddit.com
 trevor.reddit.com
@@ -16684,6 +16847,10 @@ ttalk.reddit.com
 ttc.reddit.com
 ttk.reddit.com
 ttl.reddit.com
+ttlive-i18n.tiktok.com
+ttlive-sg.tiktok.com
+ttlive-va.tiktok.com
+ttlive.tiktok.com
 tts.reddit.com
 ttt.reddit.com
 tttt.reddit.com
@@ -16723,7 +16890,9 @@ tutorial.reddit.com
 tutorials.reddit.com
 tutos.reddit.com
 tux.reddit.com
+tv-va.tiktok.com
 tv.reddit.com
+tv.tiktok.com
 tv1.reddit.com
 tv2.reddit.com
 tv4.ncu.edu.cn
@@ -16914,9 +17083,14 @@ urc.ac.ru.reddit.com
 urchin.reddit.com
 uristmaps.reddit.com
 url.reddit.com
+url1024.service.tiktok.com
+url4153.service.tiktok.com
+url7465.shop.tiktok.com
+url7709.account.tiktok.com
 uruguay.reddit.com
 us.m.reddit.com
 us.reddit.com
+us.tiktok.com
 us1.reddit.com
 us2.reddit.com
 usa.reddit.com
@@ -16957,8 +17131,12 @@ uxs2r.reddit.com
 uy.reddit.com
 uzruka.imgur.com
 v.reddit.com
+v.tiktok.com
 v1.reddit.com
 v10.csngok.ok.reddit.com
+v16-web-tv.tiktok.com
+v16-web.tiktok.com
+v16-webapp.tiktok.com
 v2.reddit.com
 v21.reddit.com
 v28.reddit.com
@@ -17094,6 +17272,7 @@ victoria.reddit.com
 victory.reddit.com
 vid.reddit.com
 vidar.reddit.com
+video-tcs-va.tiktok.com
 video.ncu.edu.cn
 video.reddit.com
 video1.reddit.com
@@ -17186,6 +17365,7 @@ vivian.reddit.com
 vivo.reddit.com
 vixen.reddit.com
 vk.reddit.com
+vk.tiktok.com
 vk876511.imgur.com
 vkontakte.reddit.com
 vkpcrmczow.imgur.com
@@ -17196,7 +17376,9 @@ vladivostok.reddit.com
 vlc.reddit.com
 vle.reddit.com
 vlg.reddit.com
+vm-useast2a.tiktok.com
 vm.reddit.com
+vm.tiktok.com
 vm0.reddit.com
 vm01.reddit.com
 vm02.reddit.com
@@ -17430,6 +17612,7 @@ vspace.reddit.com
 vss.reddit.com
 vstagingnew.reddit.com
 vt.reddit.com
+vt.tiktok.com
 vtb.reddit.com
 vtc.reddit.com
 vtest.reddit.com
@@ -17549,6 +17732,8 @@ web-01.reddit.com
 web-02.reddit.com
 web-coronavirusca.reddit.com
 web-hosting.reddit.com
+web-sg.tiktok.com
+web-va.tiktok.com
 web.old.reddit.com
 web.reddit.com
 web.technewstoday.reddit.com
@@ -22361,6 +22546,9 @@ webadvisor.reddit.com
 webalbum.reddit.com
 webalizer.reddit.com
 webapi.reddit.com
+webapp-cn.tiktok.com
+webapp-sg.tiktok.com
+webapp-va.tiktok.com
 webapp.reddit.com
 webapps.reddit.com
 webapps.starbucks.com
@@ -22374,7 +22562,12 @@ webcalendar.reddit.com
 webcam.reddit.com
 webcam1.reddit.com
 webcam2.reddit.com
+webcast-m.tiktok.com
+webcast-t.tiktok.com
 webcast.reddit.com
+webcast.tiktok.com
+webcast16-ws-alisg.tiktok.com
+webcast16-ws-useast1a.tiktok.com
 webchat.reddit.com
 webclasseur.reddit.com
 webclient.reddit.com
@@ -22534,6 +22727,7 @@ webdisk.www2.reddit.com
 webdisk.x.reddit.com
 webeoc.reddit.com
 weber.reddit.com
+webform.tiktok.com
 webftp.reddit.com
 webgames.reddit.com
 webhard.reddit.com
@@ -22607,6 +22801,7 @@ websvn.reddit.com
 webtech.reddit.com
 webtools.reddit.com
 webtrends.reddit.com
+webtv-va.tiktok.com
 webtv.reddit.com
 webview.reddit.com
 webvpn.reddit.com
@@ -22998,6 +23193,7 @@ www-staging.reddit.com
 www-stg.reddit.com
 www-test.reddit.com
 www-uat.reddit.com
+www-useast1a.tiktok.com
 www.0why22.imgur.com
 www.0ypcf0.imgur.com
 www.1evmtb.imgur.com
@@ -23098,6 +23294,7 @@ www.tea.starbucks.com
 www.test.starbucks.com
 www.testsecureui.starbucks.com
 www.teststore.starbucks.com
+www.tiktok.com
 www.tls-test-1.reddit.com
 www.ussu8e.imgur.com
 www.uwp8q1.imgur.com
@@ -23532,6 +23729,10 @@ zen.reddit.com
 zena.reddit.com
 zend.reddit.com
 zendesk.reddit.com
+zendesk1.tiktok.com
+zendesk2.tiktok.com
+zendesk3.tiktok.com
+zendesk4.tiktok.com
 zenith.reddit.com
 zenoss.reddit.com
 zeon.reddit.com
