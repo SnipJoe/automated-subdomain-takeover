@@ -7062,6 +7062,7 @@ gx1.reddit.com
 gx2.reddit.com
 gx3.reddit.com
 gx4.reddit.com
+gxmzu.edu.cn
 gxy.ncu.edu.cn
 gxyjy.ncu.edu.cn
 gy.reddit.com
