@@ -344,6 +344,7 @@
 5772181751352224930362162850031149167001.imgur.com
 57kop1.imgur.com
 58.reddit.com
+588bocaiwangadhoc.antiviruspre.rubyonrails.org
 59.reddit.com
 590.imgur.com
 5a2eceae-ab08-4c91-a08d-65cd8de3b01a.www.paypal.com
@@ -650,12 +651,15 @@ acrux.reddit.com
 acs.reddit.com
 act.reddit.com
 action.reddit.com
+actionmailer.rubyonrails.org
+actionpack.rubyonrails.org
 activate.reddit.com
 activation-cn.acronis.com
 activation.acronis.com
 activation.reddit.com
 active.reddit.com
 activecho.acronis.com
+activerecord.rubyonrails.org
 activesync-iad3.starbucks.com
 activesync.gtm.starbucks.com
 activesync.reddit.com
@@ -1040,6 +1044,8 @@ alvarez.reddit.com
 alvin.reddit.com
 alvis.reddit.com
 am.reddit.com
+am.rubyonrails.org
+am.www.virus.rubyonrails.org
 am1.reddit.com
 ama.reddit.com
 amabloom101.imgur.com
@@ -1207,11 +1213,13 @@ antiques.reddit.com
 antispam.reddit.com
 antispam2.reddit.com
 antivirus.helpcenter.reddit.com
+antivirus.nummus.rubyonrails.org
 antivirus.reddit.com
 antivirus.secure.reddit.com
 antivirus.www-dev.admin.alumni.dev.reddit.com
 antivirus1.reddit.com
 antivirusapp.reddit.com
+antiviruspre.rubyonrails.org
 anto.reddit.com
 anton.reddit.com
 antonio.reddit.com
@@ -1233,6 +1241,7 @@ aos-creative.reddit.com
 aospextended.imgur.com
 aovivo.reddit.com
 ap.reddit.com
+ap.rubyonrails.org
 ap1.reddit.com
 ap1cj2.imgur.com
 ap2.reddit.com
@@ -1268,6 +1277,7 @@ api.np.playbuilder.starbucks.com
 api.old.reddit.com
 api.playbuilder.starbucks.com
 api.reddit.com
+api.rubyonrails.org
 api.staging.reddit.com
 api.starbucks.com
 api.technewstoday.reddit.com
@@ -1359,6 +1369,7 @@ aquarium.reddit.com
 aquarius.reddit.com
 aquila.reddit.com
 ar.reddit.com
+ar.rubyonrails.org
 ar15.reddit.com
 ara.reddit.com
 arab.reddit.com
@@ -1470,6 +1481,7 @@ arwen.reddit.com
 arxiv.reddit.com
 as.iso.reddit.com
 as.reddit.com
+as.rubyonrails.org
 as1.reddit.com
 as2.reddit.com
 as3.reddit.com
@@ -1929,6 +1941,7 @@ awkwardasian1.imgur.com
 aws-smail.reddit.com
 aws.acronis.com
 aws.reddit.com
+aws.rubyonrails.org
 awsdashboard.reddit.com
 awstats.reddit.com
 awtest121.starbucks.com
@@ -2642,6 +2655,7 @@ blog.acronis.com
 blog.imgur.com
 blog.old.reddit.com
 blog.reddit.com
+blog.rubyonrails.org
 blog.starbucks.com
 blog.technewstoday.reddit.com
 blog.trending.tiktok.com
@@ -3602,6 +3616,7 @@ church.reddit.com
 ci-jenkins.sdt.corp.acronis.com
 ci.corp.acronis.com
 ci.reddit.com
+ci.rubyonrails.org
 ciao.reddit.com
 cic.reddit.com
 cie.reddit.com
@@ -4074,6 +4089,7 @@ contract.reddit.com
 contractor.reddit.com
 contrib.reddit.com
 contribute.reddit.com
+contributors.rubyonrails.org
 control.reddit.com
 control2.reddit.com
 controller.reddit.com
@@ -4100,9 +4116,11 @@ cor.reddit.com
 coracle11.imgur.com
 coral.reddit.com
 core.reddit.com
+core.rubyonrails.org
 core1.reddit.com
 core2.reddit.com
 core3.reddit.com
+corelib.rubyonrails.org
 corner.reddit.com
 corona.reddit.com
 corona24.reddit.com
@@ -4246,7 +4264,10 @@ courses.reddit.com
 cover.reddit.com
 covers.reddit.com
 covid-19.reddit.com
+covid-19.rubyonrails.org
 covid-19.th.cloud.tc.reddit.com
+covid-survey.dataforgood.rubyonrails.org
+covid.rubyonrails.org
 covid19-2018.reddit.com
 covid19-dns1.reddit.com
 covid19-dns2.reddit.com
@@ -4754,6 +4775,7 @@ datacafe-dev.starbucks.com
 datacafe-test.starbucks.com
 datacafe.starbucks.com
 datacenter.reddit.com
+dataforgood.rubyonrails.org
 datageddon.acronis.com
 datahub-useast2a.tiktok.com
 datahub.tiktok.com
@@ -4921,6 +4943,7 @@ deltaminecraft.reddit.com
 dem.reddit.com
 demandprogress20.imgur.com
 demeter.reddit.com
+demo.app.rubyonrails.org
 demo.old.reddit.com
 demo.reddit.com
 demo.technewstoday.reddit.com
@@ -5027,6 +5050,7 @@ dev.m.reddit.com
 dev.mfa.starbucks.com
 dev.old.reddit.com
 dev.reddit.com
+dev.rubyonrails.org
 dev.sei.starbucks.com
 dev.shop.reddit.com
 dev.starbucks.com
@@ -5213,6 +5237,7 @@ discover.reddit.com
 discovery.reddit.com
 discus.reddit.com
 discuss.reddit.com
+discuss.rubyonrails.org
 discussion.reddit.com
 discuz.reddit.com
 disk.reddit.com
@@ -5629,6 +5654,7 @@ eapi-scmariba.starbucks.com
 eapi-sd.starbucks.com
 eapi-ss.starbucks.com
 eapi-test.starbucks.com
+eapi.rubyonrails.org
 eapi.starbucks.com
 earn.reddit.com
 earnmoney.reddit.com
@@ -5730,7 +5756,9 @@ edge1.reddit.com
 edge12.acronis.com
 edge2.acronis.com
 edge2.reddit.com
+edgeapi.rubyonrails.org
 edgebucket.reddit.com
+edgeguides.rubyonrails.org
 edh.reddit.com
 edi.reddit.com
 edison.reddit.com
@@ -7120,6 +7148,7 @@ gem.reddit.com
 gemini.reddit.com
 gemrq1.imgur.com
 gems.reddit.com
+gems.rubyonrails.org
 gen.reddit.com
 genderotica.reddit.com
 genderqueer.reddit.com
@@ -7502,8 +7531,10 @@ guestbook.reddit.com
 gui.m.reddit.com
 guia.reddit.com
 guide.reddit.com
+guide.rubyonrails.org
 guideline.reddit.com
 guides.reddit.com
+guides.rubyonrails.org
 guildfordv.imgur.com
 guildwars2.reddit.com
 guiltypleasuremusic.reddit.com
@@ -7591,6 +7622,7 @@ hackallthethings.reddit.com
 hackday.starbucks.com
 hacker.reddit.com
 hackers.reddit.com
+hackfest.rubyonrails.org
 hades.reddit.com
 hadi.reddit.com
 hadron.reddit.com
@@ -8025,6 +8057,7 @@ ht.reddit.com
 htd.ncu.edu.cn
 html.reddit.com
 html5.reddit.com
+html5.rubyonrails.org
 htrap1001.imgur.com
 hts.reddit.com
 http 32i.imgur.com
@@ -9819,6 +9852,7 @@ listes.reddit.com
 listings.reddit.com
 lists.old.reddit.com
 lists.reddit.com
+lists.rubyonrails.org
 lists.technewstoday.reddit.com
 listserv.reddit.com
 listsrv.reddit.com
@@ -10532,6 +10566,7 @@ manta.reddit.com
 mantis.reddit.com
 manual.reddit.com
 manuals.reddit.com
+manuals.rubyonrails.org
 manuel.reddit.com
 manufacturing.reddit.com
 map.reddit.com
@@ -10757,6 +10792,7 @@ medea.reddit.com
 medi.reddit.com
 media.old.reddit.com
 media.reddit.com
+media.rubyonrails.org
 media.scm.starbucks.com
 media.scmdev.starbucks.com
 media.scmtest.starbucks.com
@@ -11297,6 +11333,8 @@ mradm.letter.reddit.com
 mrb.reddit.com
 mrc.reddit.com
 mrdog1304.imgur.com
+mri186.ci.rubyonrails.org
+mri187.ci.rubyonrails.org
 mrm.reddit.com
 mrp.reddit.com
 mrpeanut1.imgur.com
@@ -11781,6 +11819,7 @@ ncdxfsykyy.ncu.edu.cn
 ncdxfz.ncu.edu.cn
 nchu.ncu.edu.cn
 ncov.html5.reddit.com
+ncov.html5.rubyonrails.org
 ncp.reddit.com
 ncs.reddit.com
 ncu.edu.cn
@@ -11863,6 +11902,7 @@ nevis.reddit.com
 new-pp.acronis.com
 new.old.reddit.com
 new.reddit.com
+new.rubyonrails.org
 new.technewstoday.reddit.com
 new1.reddit.com
 new2.reddit.com
@@ -11931,6 +11971,7 @@ newunse.reddit.com
 newuploader1.imgur.com
 newweb.reddit.com
 newwebmail.reddit.com
+newwiki.rubyonrails.org
 newworld.reddit.com
 newww.reddit.com
 newwww.reddit.com
@@ -12128,6 +12169,7 @@ novo.reddit.com
 novokuznetsk.reddit.com
 novorossiysk.reddit.com
 novosibirsk.reddit.com
+now.comcsg-fin-0213.csg.588bocaiwangadhoc.antiviruspre.rubyonrails.org
 now.reddit.com
 nowa.reddit.com
 nowhere.reddit.com
@@ -12371,6 +12413,7 @@ nuip.ncu.edu.cn
 nuke.reddit.com
 null.reddit.com
 numbers.reddit.com
+nummus.rubyonrails.org
 nuovo.reddit.com
 nuri.reddit.com
 nurse.reddit.com
@@ -12567,6 +12610,8 @@ oldman.reddit.com
 oldsite.reddit.com
 oldweb.reddit.com
 oldwebmail.reddit.com
+oldwiki.rubyonrails.org
+oldwiki.www.virus.rubyonrails.org
 oldwww.reddit.com
 ole.reddit.com
 oleg.reddit.com
@@ -13399,6 +13444,7 @@ poczta.reddit.com
 pod.reddit.com
 podarok.reddit.com
 podcast.reddit.com
+podcast.rubyonrails.org
 podcasts.reddit.com
 podolsk.reddit.com
 poems.reddit.com
@@ -14027,6 +14073,7 @@ rai.reddit.com
 raid.reddit.com
 rail.reddit.com
 rails.reddit.com
+rails.rubyonrails.org
 railway.reddit.com
 railwaymap.reddit.com
 rain.reddit.com
@@ -16048,6 +16095,7 @@ solutions.reddit.com
 solutions.starbucks.com
 som.reddit.com
 soma.reddit.com
+some.demo.app.rubyonrails.org
 someone.reddit.com
 something.reddit.com
 sona.reddit.com
@@ -16188,6 +16236,7 @@ spm.reddit.com
 spmp.corp.acronis.com
 spo.reddit.com
 spock.reddit.com
+spokane.www.virus.rubyonrails.org
 spokes.reddit.com
 sponsor.reddit.com
 spooky.reddit.com
@@ -16479,6 +16528,7 @@ stavropol.reddit.com
 stc.reddit.com
 stcatharineson.reddit.com
 std.reddit.com
+stdlib.rubyonrails.org
 steak.reddit.com
 stealth.reddit.com
 steam.reddit.com
@@ -16706,6 +16756,7 @@ support.acronis.com
 support.old.reddit.com
 support.reddit.com
 support.rkeeper.ru
+support.rubyonrails.org
 support.technewstoday.reddit.com
 support.tiktok.com
 support1.reddit.com
@@ -16766,8 +16817,10 @@ svcgatewaytestus.starbucks.com
 svcgatewayus.starbucks.com
 sven.reddit.com
 svm.reddit.com
+svn-commit.rubyonrails.org
 svn.corp.acronis.com
 svn.reddit.com
+svn.rubyonrails.org
 svn2.reddit.com
 svpn.reddit.com
 svs.reddit.com
@@ -18078,6 +18131,7 @@ v7knm0.imgur.com
 va.acronis.com
 va.reddit.com
 vaccine.line.reddit.com
+vaccines.rubyonrails.org
 vader.reddit.com
 vadim.reddit.com
 vainglorygame.reddit.com
@@ -18265,13 +18319,17 @@ virt.reddit.com
 virtual.reddit.com
 virtual1.reddit.com
 virtual2.reddit.com
+virus-databases.rubyonrails.org
 virus.reddit.com
+virus.rubyonrails.org
 virus02.reddit.com
 virus0316.reddit.com
+virus0316.rubyonrails.org
 virus0316nisic.sites.infr.search.reddit.com
 virus0316shagov.sites.infr.search.reddit.com
 virus12345.reddit.com
 virus511.imgur.com
+virusctionmailer.rubyonrails.org
 vis.reddit.com
 visa.reddit.com
 vishnu.reddit.com
@@ -18511,6 +18569,7 @@ vpngw.reddit.com
 vpnssl.reddit.com
 vpproxy.reddit.com
 vps.reddit.com
+vps1.ci.rubyonrails.org
 vps1.reddit.com
 vps102.reddit.com
 vps103.reddit.com
@@ -18521,9 +18580,12 @@ vps108.reddit.com
 vps11.reddit.com
 vps115.reddit.com
 vps2.reddit.com
+vps3.ci.rubyonrails.org
 vps3.reddit.com
 vps4.reddit.com
+vps5.ci.rubyonrails.org
 vps5.reddit.com
+vps6.ci.rubyonrails.org
 vps6.reddit.com
 vps7.reddit.com
 vps8.reddit.com
@@ -23689,6 +23751,8 @@ webinars.reddit.com
 webinfo.reddit.com
 weblink.reddit.com
 weblog.reddit.com
+weblog.rubyonrails.org
+weblogs.rubyonrails.org
 weblync.reddit.com
 webm.reddit.com
 webmail-original.reddit.com
@@ -23889,6 +23953,7 @@ wiiu.reddit.com
 wiki.dev.reddit.com
 wiki.old.reddit.com
 wiki.reddit.com
+wiki.rubyonrails.org
 wiki.technewstoday.reddit.com
 wiki2.reddit.com
 wikileaks.reddit.com
@@ -24064,6 +24129,7 @@ wr-backup.acronis.com
 wr-eu3-baas.acronis.com
 wr.reddit.com
 wraith.reddit.com
+wrath.rubyonrails.org
 wrestling.reddit.com
 wrh-msptest2.acronis.com
 writer.reddit.com
@@ -24317,6 +24383,7 @@ www.rkeeper.ru
 www.rndtools-jenkins.corp.acronis.com
 www.rpc.webdev-intcopy.corp.acronis.com
 www.rrkrzn.imgur.com
+www.rubyonrails.org
 www.s03.productioncontroller.starbucks.com
 www.sg-devops.corp.acronis.com
 www.social.starbucks.com
@@ -24352,6 +24419,9 @@ www.vdj24a.imgur.com
 www.vefhgm.imgur.com
 www.vgm1h2.imgur.com
 www.vip.reddit.com
+www.virus-databases.rubyonrails.org
+www.virus.rubyonrails.org
+www.virusctionmailer.rubyonrails.org
 www.vrsbob.imgur.com
 www.w85fwg.imgur.com
 www.wfmnalcn.starbucks.com
@@ -24475,6 +24545,7 @@ wwwstage.starbucks.com
 wwwstg.reddit.com
 wwwtest.reddit.com
 wwww.reddit.com
+wwww.rubyonrails.org
 wwwww.reddit.com
 wwwx.reddit.com
 wx.reddit.com
@@ -24558,6 +24629,7 @@ xmas.reddit.com
 xmen.reddit.com
 xml-gw-host.reddit.com
 xml.reddit.com
+xml.rubyonrails.org
 xml2.reddit.com
 xmlfeed.reddit.com
 xmlrpc.reddit.com
@@ -24595,6 +24667,7 @@ xvideos.reddit.com
 xw.reddit.com
 xweb.reddit.com
 xwingtmg.reddit.com
+xwww.rubyonrails.org
 xwycb.ncu.edu.cn
 xx-di.reddit.com
 xx-he.reddit.com
