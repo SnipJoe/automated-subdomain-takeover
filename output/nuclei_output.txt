@@ -1,3 +1,12 @@
 [[36m2022-08-24 07:15:10[0m] [[92maws-bucket-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://abgw-akl1-aci01.acronis.com
 [[36m2022-08-24 07:15:11[0m] [[92maws-bucket-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://abgw-jp2-acs1.acronis.com
 [[36m2022-08-24 07:15:13[0m] [[92maws-bucket-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://abgw-sin2-acs1.acronis.com
+[[36m2022-08-29 12:01:10[0m] [[92maws-bucket-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://abgw-eu5-acs1.acronis.com
+[[36m2022-08-29 12:01:10[0m] [[92maws-bucket-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://abgw-ru2-acs1.acronis.com
+[[36m2022-08-29 12:01:10[0m] [[92maws-bucket-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://baas-fes-eu5.acronis.com
+[[36m2022-08-29 12:01:10[0m] [[92maws-bucket-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://baas-fes-jp2.acronis.com
+[[36m2022-08-29 12:01:10[0m] [[92maws-bucket-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://baas-fes-ru2.acronis.com
+[[36m2022-08-29 12:01:10[0m] [[92mtilda-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://promo.rkeeper.ru
+[[36m2022-08-29 12:01:11[0m] [[92maws-bucket-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://cloud-fes-jp2.acronis.com
+[[36m2022-08-29 12:01:12[0m] [[92maws-bucket-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://cloud-fes-jp1.acronis.com
+[[36m2022-08-29 12:01:12[0m] [[92maws-bucket-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://cloud-fes-ru2.acronis.com
