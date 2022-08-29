@@ -152,6 +152,7 @@
 1a222b.imgur.com
 1bbe03018.reddit.com
 1c.reddit.com
+1c.samokat.ru
 1coronavirusca.reddit.com
 1d3d7abd41.imgur.com
 1e7eb9b9d5d90.reddit.com
@@ -203,6 +204,7 @@
 2019coronavirusca.reddit.com
 2019covid19.reddit.com
 2020.imgur.com
+2022-cdn.samokat.ru
 203.reddit.com
 204.reddit.com
 205.reddit.com
@@ -395,6 +397,7 @@
 72921877.imgur.com
 73.reddit.com
 74.reddit.com
+74.samokat.ru
 75.reddit.com
 7524368391.imgur.com
 7524a30183e9ed.reddit.com
@@ -991,6 +994,7 @@ ali4232.reddit.com
 alibaba.reddit.com
 alice.reddit.com
 alien.reddit.com
+aliexpress.samokat.ru
 alilarter.reddit.com
 alim.reddit.com
 alina.reddit.com
@@ -1548,6 +1552,7 @@ ass.reddit.com
 assassin.reddit.com
 asset.reddit.com
 assets.reddit.com
+assets.samokat.ru
 assets.scm.starbucks.com
 assets.scmdev.starbucks.com
 assets.scmtest.starbucks.com
@@ -2267,6 +2272,7 @@ barcelona.reddit.com
 barcode.reddit.com
 barlow.reddit.com
 barnaul.reddit.com
+barnaul.samokat.ru
 barney.reddit.com
 baron.reddit.com
 barra.reddit.com
@@ -2396,6 +2402,7 @@ beian.ncu.edu.cn
 beijing.reddit.com
 belarus.reddit.com
 belgorod.reddit.com
+belgorod.samokat.ru
 belize.reddit.com
 belka.reddit.com
 bell.reddit.com
@@ -2567,6 +2574,7 @@ bismarck.reddit.com
 bison.reddit.com
 bit.reddit.com
 bitcoin.reddit.com
+bite.samokat.ru
 bitfinex.reddit.com
 bitrix.reddit.com
 bits.reddit.com
@@ -2765,6 +2773,7 @@ booking.reddit.com
 bookings.reddit.com
 bookman.reddit.com
 bookmark.reddit.com
+bookmate.samokat.ru
 books.reddit.com
 bookshop.reddit.com
 bookstore.reddit.com
@@ -2911,6 +2920,7 @@ bruttoanatroccolo70.imgur.com
 brutus.reddit.com
 bryan.reddit.com
 bryansk.reddit.com
+bryansk.samokat.ru
 bs.reddit.com
 bsa.reddit.com
 bsc.reddit.com
@@ -3205,6 +3215,7 @@ cardreloadtestus.starbucks.com
 cardreloadus.starbucks.com
 cards.reddit.com
 care.reddit.com
+care.samokat.ru
 career.reddit.com
 careers.acronis.com
 careers.old.reddit.com
@@ -3524,6 +3535,7 @@ chdlyncwebapp01.starbucks.com
 che.reddit.com
 cheap.reddit.com
 cheboksary.reddit.com
+cheboksary.samokat.ru
 check.reddit.com
 checkmate.reddit.com
 checkout.reddit.com
@@ -3537,7 +3549,9 @@ cheers.reddit.com
 cheese.reddit.com
 cheetah.reddit.com
 chef.reddit.com
+chef.samokat.ru
 chel.reddit.com
+chelny.samokat.ru
 chelsea.reddit.com
 chelyabinsk-rnoc-rr02.backbone.reddit.com
 chelyabinsk-rnoc-rr02.backbone.urc.ac.ru.reddit.com
@@ -3582,6 +3596,7 @@ chilli.reddit.com
 chimera.reddit.com
 chin.reddit.com
 china.reddit.com
+china.samokat.ru
 chinese.reddit.com
 chip.reddit.com
 chita.reddit.com
@@ -3906,6 +3921,7 @@ cobalt.reddit.com
 cobbler.reddit.com
 cobra.reddit.com
 coc.reddit.com
+coca-cola.samokat.ru
 coca.reddit.com
 cock.reddit.com
 coco.reddit.com
@@ -4262,6 +4278,7 @@ courrier.reddit.com
 course.reddit.com
 courses.reddit.com
 cover.reddit.com
+coverage.samokat.ru
 covers.reddit.com
 covid-19.reddit.com
 covid-19.rubyonrails.org
@@ -4371,6 +4388,7 @@ crazy.reddit.com
 crazyideas.reddit.com
 crazynunes1.imgur.com
 crc.reddit.com
+creachella.samokat.ru
 cream.reddit.com
 create.reddit.com
 creater.reddit.com
@@ -4408,6 +4426,7 @@ crl2.reddit.com
 crm-dev.reddit.com
 crm.old.reddit.com
 crm.reddit.com
+crm.samokat.ru
 crm.technewstoday.reddit.com
 crm1.reddit.com
 crm2.reddit.com
@@ -4697,6 +4716,7 @@ da17.reddit.com
 da2.reddit.com
 daa.reddit.com
 dac.reddit.com
+dacha.samokat.ru
 dada.reddit.com
 dadiggidydogg.imgur.com
 daedalus.reddit.com
@@ -5242,6 +5262,7 @@ discussion.reddit.com
 discuz.reddit.com
 disk.reddit.com
 disney.reddit.com
+disney.samokat.ru
 dispatch.reddit.com
 display.reddit.com
 disraeli.reddit.com
@@ -5722,6 +5743,7 @@ echidna.reddit.com
 echo.reddit.com
 echristine12.imgur.com
 eclass.reddit.com
+eco-vacation.samokat.ru
 eco.ncu.edu.cn
 eco.reddit.com
 ecology.reddit.com
@@ -5831,6 +5853,7 @@ ek.reddit.com
 ek93922.imgur.com
 ekaterinburg.reddit.com
 ekb.reddit.com
+ekb.samokat.ru
 eko.reddit.com
 ekonomi.reddit.com
 el.reddit.com
@@ -5863,6 +5886,7 @@ elegance.reddit.com
 elegant.reddit.com
 elektro.reddit.com
 element.reddit.com
+elementaree.samokat.ru
 elena.reddit.com
 elephant.reddit.com
 eleven.reddit.com
@@ -6462,6 +6486,7 @@ fc2.reddit.com
 fc6f08.imgur.com
 fcc.reddit.com
 fcgi.reddit.com
+fckrasnodar.samokat.ru
 fco1-repo.acronis.com
 fco1-s3gw.acronis.com
 fcs.reddit.com
@@ -6634,6 +6659,7 @@ fisip.reddit.com
 fist.reddit.com
 fisto.reddit.com
 fit.reddit.com
+fitmost.samokat.ru
 fitness.reddit.com
 fittofat.reddit.com
 fivestar.reddit.com
@@ -7237,6 +7263,7 @@ gift.reddit.com
 giftcards.starbucks.com
 gifting.starbucks.com
 gifts.reddit.com
+gifts.samokat.ru
 gifts.starbucks.com
 giga.reddit.com
 gigabyte.reddit.com
@@ -7638,6 +7665,7 @@ hall.reddit.com
 halley.reddit.com
 halloween.reddit.com
 halo.reddit.com
+halumi.samokat.ru
 ham.reddit.com
 hama.reddit.com
 hamburg.reddit.com
@@ -7743,6 +7771,7 @@ headlines.reddit.com
 headphones.reddit.com
 healing.reddit.com
 health.reddit.com
+health.samokat.ru
 healthappy.imgur.com
 healthcare.reddit.com
 heart.reddit.com
@@ -7768,6 +7797,7 @@ helios811.imgur.com
 helium.reddit.com
 hell.reddit.com
 hello.reddit.com
+hello.samokat.ru
 hellokitty.reddit.com
 helloworld.reddit.com
 helm.reddit.com
@@ -7870,6 +7900,7 @@ hit.reddit.com
 hitech.reddit.com
 hits.reddit.com
 hive.reddit.com
+hive.samokat.ru
 hj.reddit.com
 hjk01.imgur.com
 hk.reddit.com
@@ -8869,6 +8900,7 @@ ixxx.imgur.com
 iy.reddit.com
 iz.reddit.com
 izhevsk.reddit.com
+izhevsk.samokat.ru
 j.reddit.com
 j00xcbd00.imgur.com
 j1.reddit.com
@@ -8904,6 +8936,7 @@ james.reddit.com
 jamesjoseph1000.imgur.com
 jamespchadwick.imgur.com
 jamie.reddit.com
+jamieoliver.samokat.ru
 jana.reddit.com
 janbazanskhan.imgur.com
 jand1122.imgur.com
@@ -9029,6 +9062,7 @@ joanna.reddit.com
 joao611.imgur.com
 job.reddit.com
 jobs.reddit.com
+jobs.samokat.ru
 jobs.starbucks.com
 jobsearch.reddit.com
 jocuri.reddit.com
@@ -9206,6 +9240,7 @@ kali.reddit.com
 kaliningrad.reddit.com
 kaltura.reddit.com
 kaluga.reddit.com
+kaluga.samokat.ru
 kamel.reddit.com
 kamera.reddit.com
 kami.reddit.com
@@ -9294,6 +9329,7 @@ kekwpepehands.reddit.com
 kelly.reddit.com
 kelvin.reddit.com
 kemerovo.reddit.com
+kemerovo.samokat.ru
 ken.reddit.com
 kennedy.reddit.com
 kenny.reddit.com
@@ -9361,6 +9397,7 @@ kirakira.reddit.com
 kiran.reddit.com
 kirk.reddit.com
 kirov.reddit.com
+kirov.samokat.ru
 kis.reddit.com
 kiss.reddit.com
 kit.reddit.com
@@ -9411,6 +9448,7 @@ koko.reddit.com
 kokoro.reddit.com
 kolentohs.imgur.com
 kolo.reddit.com
+kolomna.samokat.ru
 kom.reddit.com
 komi.reddit.com
 kon.reddit.com
@@ -9452,6 +9490,7 @@ kraken.reddit.com
 krakow.reddit.com
 krang.reddit.com
 krasnodar.reddit.com
+krasnodar.samokat.ru
 krasnoyarsk.reddit.com
 kratom.reddit.com
 kris.reddit.com
@@ -9506,10 +9545,12 @@ kurgan.reddit.com
 kuro2020.imgur.com
 kurs.reddit.com
 kursk.reddit.com
+kursk.samokat.ru
 kurzheck.imgur.com
 kushal171.imgur.com
 kutuphane.reddit.com
 kv.reddit.com
+kvas.samokat.ru
 kvm.reddit.com
 kvm1.reddit.com
 kvm2.reddit.com
@@ -9579,6 +9620,7 @@ landmark.reddit.com
 landscape.reddit.com
 lang.reddit.com
 language.reddit.com
+language.samokat.ru
 languages.reddit.com
 lanhub.reddit.com
 lanka.reddit.com
@@ -9723,6 +9765,7 @@ letsgo.reddit.com
 letsgofish.reddit.com
 letsnotmeet.reddit.com
 letsstayonvacation.imgur.com
+letstvo.samokat.ru
 letter.reddit.com
 levi.reddit.com
 leviathan.reddit.com
@@ -9832,6 +9875,7 @@ lion.reddit.com
 lions.reddit.com
 lip.reddit.com
 lipetsk.reddit.com
+lipetsk.samokat.ru
 liquid.reddit.com
 liquid1981.imgur.com
 lira.reddit.com
@@ -10068,6 +10112,7 @@ lucius.reddit.com
 luck.reddit.com
 lucky.reddit.com
 lucky7.reddit.com
+luckyticket.samokat.ru
 lucy.reddit.com
 luggage.reddit.com
 luigi.reddit.com
@@ -10083,6 +10128,7 @@ lumiere.reddit.com
 luna.reddit.com
 lunar.reddit.com
 lunarlin1.imgur.com
+lunch.samokat.ru
 lupus.reddit.com
 lust.reddit.com
 luther.reddit.com
@@ -10220,6 +10266,7 @@ magma.reddit.com
 magnet.reddit.com
 magneto.reddit.com
 magnitogorsk.reddit.com
+magnitogorsk.samokat.ru
 magnolia.reddit.com
 magnum.reddit.com
 magnus.reddit.com
@@ -10509,6 +10556,7 @@ major.reddit.com
 mak.reddit.com
 makalu.reddit.com
 make.reddit.com
+makefor.samokat.ru
 makemoney.reddit.com
 maker.reddit.com
 makerbot.reddit.com
@@ -10909,6 +10957,7 @@ messenger.reddit.com
 met.reddit.com
 meta-api.reddit.com
 meta.reddit.com
+metadata.samokat.ru
 metal.reddit.com
 metalgearsolid.reddit.com
 metallica.reddit.com
@@ -11488,6 +11537,7 @@ mtgtournaments.reddit.com
 mtgvorthos.reddit.com
 mtn.reddit.com
 mts.reddit.com
+mts.samokat.ru
 mttransfer.acronis.com
 mtv.reddit.com
 mtweb.acronis.com
@@ -11580,6 +11630,7 @@ mx01-cloud.acronis.com
 mx01.girlsuncovered.reddit.com
 mx01.old.reddit.com
 mx01.reddit.com
+mx01.samokat.ru
 mx01.technewstoday.reddit.com
 mx01coronavirusca.reddit.com
 mx01covid19.reddit.com
@@ -11846,6 +11897,7 @@ ned.reddit.com
 negotiation.reddit.com
 neilmag.imgur.com
 neko.reddit.com
+nekrasovka.samokat.ru
 nelly.reddit.com
 nelson.reddit.com
 nemesis.reddit.com
@@ -12051,6 +12103,7 @@ nini.reddit.com
 ninja.reddit.com
 ninna91.imgur.com
 nino.reddit.com
+nino.samokat.ru
 nintendo.reddit.com
 niobe.reddit.com
 nippon.reddit.com
@@ -12066,6 +12119,7 @@ nitro.reddit.com
 nitrogen.reddit.com
 nix.reddit.com
 nixon.reddit.com
+nizhnekamsk.samokat.ru
 nj.reddit.com
 nk.reddit.com
 nl.acronis.com
@@ -12166,6 +12220,7 @@ novelty.reddit.com
 novgorod.reddit.com
 novi.reddit.com
 novo.reddit.com
+novocheb.samokat.ru
 novokuznetsk.reddit.com
 novorossiysk.reddit.com
 novosibirsk.reddit.com
@@ -12425,6 +12480,7 @@ nuts.reddit.com
 nuzlocke.reddit.com
 nv.reddit.com
 nvidia.reddit.com
+nvkz.samokat.ru
 nvpgk1.reddit.com
 nw.reddit.com
 nw1.reddit.com
@@ -13173,6 +13229,7 @@ pennsylvania.reddit.com
 penny.reddit.com
 pension.reddit.com
 penza.reddit.com
+penza.samokat.ru
 people.reddit.com
 pepe.reddit.com
 pepetraders.reddit.com
@@ -13194,6 +13251,7 @@ periodismo.reddit.com
 perkynipples1.imgur.com
 perl.reddit.com
 perm.reddit.com
+perm.samokat.ru
 permits.reddit.com
 perpustakaan.reddit.com
 persephone.reddit.com
@@ -13508,6 +13566,7 @@ popo.reddit.com
 popular.reddit.com
 popup.reddit.com
 por.reddit.com
+porazavelo.samokat.ru
 porky.reddit.com
 pornaday.imgur.com
 porno.reddit.com
@@ -14615,6 +14674,7 @@ rosie.reddit.com
 ross.reddit.com
 rossi.reddit.com
 rostov.reddit.com
+rostovondon.samokat.ru
 rotor.reddit.com
 roundcube.reddit.com
 router-b.reddit.com
@@ -14824,6 +14884,7 @@ rx.reddit.com
 ryaisms.reddit.com
 ryan.reddit.com
 ryazan.reddit.com
+ryazan.samokat.ru
 ryder.reddit.com
 rz.reddit.com
 s.imgur.com
@@ -15114,12 +15175,14 @@ sama.reddit.com
 saman.reddit.com
 samar.reddit.com
 samara.reddit.com
+samara.samokat.ru
 samba.reddit.com
 samer.reddit.com
 sametime.reddit.com
 samho.reddit.com
 sami.reddit.com
 sammy.reddit.com
+samokat.ru
 samp.reddit.com
 sample.reddit.com
 samples.reddit.com
@@ -15167,6 +15230,7 @@ sara.reddit.com
 sarah.reddit.com
 sarahhyland.reddit.com
 saransk.reddit.com
+saratov-engels.samokat.ru
 saratov.reddit.com
 sari.reddit.com
 saruman.reddit.com
@@ -15196,6 +15260,7 @@ savings.reddit.com
 sawyer.reddit.com
 sayac.reddit.com
 saythatagain.reddit.com
+sb-promo-api.samokat.ru
 sb.reddit.com
 sb00.gifts.starbucks.com
 sb01.gifts.starbucks.com
@@ -15632,6 +15697,7 @@ shady.reddit.com
 shaggy.reddit.com
 shaka.reddit.com
 shakira.reddit.com
+shalash.samokat.ru
 shaman.reddit.com
 shampoo.reddit.com
 shamrock.reddit.com
@@ -15758,6 +15824,7 @@ signin.reddit.com
 signup.reddit.com
 sigrh.reddit.com
 sikora.imgur.com
+silavetra.samokat.ru
 silence.reddit.com
 silent.reddit.com
 silica.reddit.com
@@ -15782,6 +15849,7 @@ simplex.reddit.com
 simply.reddit.com
 simpsons.reddit.com
 sims.reddit.com
+simsim.samokat.ru
 sina.reddit.com
 singapore.reddit.com
 singasong701.imgur.com
@@ -15849,6 +15917,7 @@ sk-en.reddit.com
 sk-kk.reddit.com
 sk.reddit.com
 skala.reddit.com
+skazka.samokat.ru
 skc.ncu.edu.cn
 skc.reddit.com
 skeptic.reddit.com
@@ -15880,6 +15949,7 @@ skyxsoccerdude.imgur.com
 sl.reddit.com
 sl1.reddit.com
 sla.reddit.com
+sladosti.samokat.ru
 slappypeppercorn.imgur.com
 slash.reddit.com
 slate.reddit.com
@@ -15901,6 +15971,7 @@ slm.reddit.com
 slo.reddit.com
 slot.reddit.com
 sloth.reddit.com
+slovar.samokat.ru
 slpda.reddit.com
 sls.reddit.com
 slx.reddit.com
@@ -15932,6 +16003,7 @@ smghazi19.imgur.com
 smhecpsc01-v60.ok.reddit.com
 smi.reddit.com
 smile.reddit.com
+smile.samokat.ru
 smiles.reddit.com
 smiley.reddit.com
 smiloplatform.reddit.com
@@ -16129,6 +16201,7 @@ sorry.reddit.com
 sorry.starbucks.com
 sos.reddit.com
 soso.reddit.com
+sostav.samokat.ru
 sot.reddit.com
 sota.reddit.com
 sote.reddit.com
@@ -16152,6 +16225,7 @@ sp1.reddit.com
 sp2.reddit.com
 sp3clt1.imgur.com
 sp4.reddit.com
+spa-music.samokat.ru
 spa.reddit.com
 space.reddit.com
 spacedicks.reddit.com
@@ -16183,6 +16257,7 @@ spc.starbucks.com
 spe.ncu.edu.cn
 speak.reddit.com
 spec.reddit.com
+specagent.samokat.ru
 special.reddit.com
 specials.reddit.com
 spectra.reddit.com
@@ -16501,6 +16576,7 @@ static-mal-g-in-g01-s.reddit.com
 static.old.reddit.com
 static.origin.reddit.com
 static.reddit.com
+static.samokat.ru
 static.technewstoday.reddit.com
 static0.reddit.com
 static1.reddit.com
@@ -16543,6 +16619,7 @@ stephane.reddit.com
 stephanie.reddit.com
 stephen.reddit.com
 sterling.reddit.com
+sterlitamak.samokat.ru
 steve.reddit.com
 steven.reddit.com
 stevenuniversewiki.reddit.com
@@ -16589,12 +16666,14 @@ storemanager.tiktok.com
 stores.reddit.com
 storex.reddit.com
 stories.reddit.com
+stories.samokat.ru
 stories.starbucks.com
 storiesadmin.starbucks.com
 storiesapi.starbucks.com
 storm.reddit.com
 storm2.reddit.com
 story.reddit.com
+story.samokat.ru
 storybook.reddit.com
 stp.reddit.com
 str.reddit.com
@@ -16869,6 +16948,7 @@ sync.reddit.com
 sync1.reddit.com
 sync2.reddit.com
 synd.reddit.com
+synergetic.samokat.ru
 synergy.reddit.com
 sys.reddit.com
 sysadmin.reddit.com
@@ -16959,6 +17039,7 @@ tardis.reddit.com
 target.reddit.com
 tarik.reddit.com
 tarot.reddit.com
+tarot.samokat.ru
 tas.reddit.com
 task.reddit.com
 tasker.reddit.com
@@ -17004,6 +17085,7 @@ teaching.reddit.com
 teachingchildren.reddit.com
 teal.reddit.com
 team.reddit.com
+team.samokat.ru
 teamcritter.imgur.com
 teamo.reddit.com
 teamredditmining.reddit.com
@@ -17500,6 +17582,7 @@ tls-test-1.reddit.com
 tls-test-2.reddit.com
 tls.reddit.com
 tlt.reddit.com
+tlt.samokat.ru
 tlv1-repo.acronis.com
 tlv1-s3gw.acronis.com
 tm.partners.acronis.com
@@ -17550,6 +17633,7 @@ tomita.reddit.com
 tommy.reddit.com
 tomsfoodspot.imgur.com
 tomsk.reddit.com
+tomsk.samokat.ru
 tomtom.reddit.com
 tomy.reddit.com
 toni.reddit.com
@@ -17652,6 +17736,7 @@ trade.reddit.com
 trader.reddit.com
 traders.reddit.com
 trading.reddit.com
+traditions.samokat.ru
 traf.reddit.com
 traffic.reddit.com
 traffic2.reddit.com
@@ -17803,6 +17888,7 @@ tucson.reddit.com
 tudor.reddit.com
 tui.reddit.com
 tula.reddit.com
+tula.samokat.ru
 tulip.reddit.com
 tumblr.reddit.com
 tumen.reddit.com
@@ -17832,6 +17918,7 @@ tutos.reddit.com
 tux.reddit.com
 tv-va.tiktok.com
 tv.reddit.com
+tv.samokat.ru
 tv.tiktok.com
 tv1.reddit.com
 tv2.reddit.com
@@ -17839,6 +17926,7 @@ tv4.ncu.edu.cn
 tv6.ncu.edu.cn
 tva.reddit.com
 tver.reddit.com
+tver.samokat.ru
 tvonline.reddit.com
 tvr.reddit.com
 tvreddit.reddit.com
@@ -17875,6 +17963,7 @@ typo.reddit.com
 typo3.reddit.com
 tyr.reddit.com
 tyumen.reddit.com
+tyumen.samokat.ru
 tyyjyxy.ncu.edu.cn
 tz.reddit.com
 tzb.ncu.edu.cn
@@ -17909,6 +17998,7 @@ uds.reddit.com
 uesgh2x.reddit.com
 uf.reddit.com
 ufa.reddit.com
+ufa.samokat.ru
 ufo.reddit.com
 ug.reddit.com
 uganda.reddit.com
@@ -17943,6 +18033,7 @@ ultra.reddit.com
 ultra1.reddit.com
 ultra2.reddit.com
 ulyanovsk.reddit.com
+ulyanovsk.samokat.ru
 ulysse.reddit.com
 um.reddit.com
 uma.reddit.com
@@ -18000,6 +18091,7 @@ uoft.reddit.com
 up.reddit.com
 up1.reddit.com
 up2.reddit.com
+upakovka-podarkov.samokat.ru
 upc.reddit.com
 upd.reddit.com
 update.reddit.com
@@ -18022,6 +18114,7 @@ uploads.scm.starbucks.com
 uploads.scmdev.starbucks.com
 uploads.scmtest.starbucks.com
 ups.reddit.com
+upsala.samokat.ru
 upstanders.starbucks.com
 uptime.reddit.com
 upvoted.reddit.com
@@ -18130,6 +18223,7 @@ v6.staging.reddit.com
 v7knm0.imgur.com
 va.acronis.com
 va.reddit.com
+vacancy.samokat.ru
 vaccine.line.reddit.com
 vaccines.rubyonrails.org
 vader.reddit.com
@@ -18342,6 +18436,7 @@ visual.reddit.com
 visualbasic.reddit.com
 vita.reddit.com
 vital.reddit.com
+vitamin.samokat.ru
 vitatv.reddit.com
 vito.reddit.com
 vitrin.reddit.com
@@ -18525,6 +18620,7 @@ vol.reddit.com
 volans.reddit.com
 volga.reddit.com
 volgograd.reddit.com
+volgograd.samokat.ru
 volleyball.reddit.com
 vologda.reddit.com
 volta.reddit.com
@@ -18540,6 +18636,7 @@ voodoodigital.users.reddit.com
 vorest1.imgur.com
 voroncorexy.reddit.com
 voronezh.reddit.com
+voronezh.samokat.ru
 vortex.reddit.com
 vote.reddit.com
 voting.reddit.com
@@ -18624,6 +18721,7 @@ vv.reddit.com
 vvv.reddit.com
 vw.reddit.com
 vx.reddit.com
+vygodno.samokat.ru
 vz.reddit.com
 vz1.reddit.com
 vz2.reddit.com
@@ -23787,6 +23885,7 @@ webmin.reddit.com
 webnews.reddit.com
 webos.reddit.com
 webpay.reddit.com
+webphone.samokat.ru
 webportal.reddit.com
 webprint.reddit.com
 webpro.reddit.com
@@ -24385,6 +24484,7 @@ www.rpc.webdev-intcopy.corp.acronis.com
 www.rrkrzn.imgur.com
 www.rubyonrails.org
 www.s03.productioncontroller.starbucks.com
+www.samokat.ru
 www.sg-devops.corp.acronis.com
 www.social.starbucks.com
 www.solutions.starbucks.com
@@ -24395,6 +24495,7 @@ www.strategy.starbucks.com
 www.support.rkeeper.ru
 www.svn.corp.acronis.com
 www.tea.starbucks.com
+www.team.samokat.ru
 www.telemetry.acronis.com
 www.test.starbucks.com
 www.testrail.corp.acronis.com
@@ -24414,6 +24515,7 @@ www.us-ts.acronis.com
 www.ussu8e.imgur.com
 www.uwp8q1.imgur.com
 www.v5hhyw.imgur.com
+www.vacancy.samokat.ru
 www.vcda.acronis.com
 www.vdj24a.imgur.com
 www.vefhgm.imgur.com
@@ -24706,6 +24808,7 @@ yaoi.reddit.com
 yar.reddit.com
 yara.reddit.com
 yaroslavl.reddit.com
+yaroslavl.samokat.ru
 yasin.reddit.com
 yaya.reddit.com
 yb.reddit.com
@@ -24827,6 +24930,7 @@ za01-cloud.acronis.com
 zabawki.reddit.com
 zabbix.reddit.com
 zabbix2.reddit.com
+zabota.samokat.ru
 zahir.reddit.com
 zakaria.reddit.com
 zakaz.reddit.com
