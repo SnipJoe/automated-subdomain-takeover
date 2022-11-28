@@ -16,7 +16,7 @@ jobs:
       - name: Setup golang
         uses: actions/setup-go@v2
         with:
-          go-version: 1.17
+          go-version: 1.18
 
       - name: Cache Go
         id: cache-go
@@ -30,15 +30,15 @@ jobs:
         env:
           GO111MODULE: on
         run: |
-          go get -v github.com/projectdiscovery/subfinder
-          go get -v github.com/projectdiscovery/httpx
-          go get -v github.com/projectdiscovery/nuclei
+          go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
+          go get -v github.com/projectdiscovery/httpx/cmd/httpx
+          go get -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei
           go get -u github.com/tomnomnom/anew
         shell: bash
 
       - name: Running Scanner
         run: |
-          # nuclei -update-templates
+          nuclei -update-templates
           subfinder -silent -dL input/domains.txt -config config/subfinder-config.yaml | anew output/passive_subdomains.txt | httpx -silent | anew output/active_urls.txt | nuclei -silent -t takeovers/ | anew output/nuclei_output.txt
         shell: bash
 
